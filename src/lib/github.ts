@@ -7,7 +7,7 @@ if (!process.env.GITHUB_TOKEN) {
 
 const gitHubConfig = {
   headers: {
-    'User-Agent': 'JuditKaramazov/jkaramazfolio',
+    'User-Agent': 'JuditKaramazov/JuditKaramazfolio',
     Authorization: `token ${process.env.GITHUB_TOKEN}`
   }
 }
