@@ -1,12 +1,14 @@
 <p align="center">
-  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karaLogo.png" width="500" height="500" alt="Main site logo" /></a>
+  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karaLogo.png" width="550" height="550" alt="Main site logo" /></a>
 </p>
 <h2 align="center">
   Karamazfolio
 </h2>
 <p align="center">
-  <a href="https:/github.com/JuditKaramazov/JuditKaramazfolio">🐱/JuditKaramazfolio</a>
-  <a href="https://karamazfolio.vercel.app/">📍Official site</a>
+  <a href="https:/github.com/JuditKaramazov">🐱 /JuditKaramazov</a>
+</p>
+<p align="center">
+  <a href="https://karamazfolio.vercel.app/">📍 Personal site</a>
 </p>
 
 ---
@@ -164,5 +166,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <br />
 
 <h1 align="center">
-  <img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="250" height="250" alt="Cactus visual asset">
+  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="250" height="250" alt="Cactus visual asset">
 </h1>
