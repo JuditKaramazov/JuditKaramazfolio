@@ -1,0 +1,302 @@
+- title: PlantYourLife - Summer Code Fest
+  slug: SummerCodeFest-PlantYourLife
+  description: |
+    This project was part of the Summer Code Fest (inspired by the "Summer Game Fest" - again!) and aimed to practice the basics of TypeScript, React Native, and Expo CLI.
+
+    In this case, and since one of the main subjects affecting my life while coding gravitated around the idea of moving out, I decided to create an application focused on the one and only reality we should all embrace and rely on as functional adults: plants.
+
+    1. Just like roommates, they are the perfect allies whenever our scenarios change so drastically - and just like them, they require time, nutrients and the proper environment.
+    2. They can be as small and portable as our dearly beloved mobile devices.
+    3. Above all, they force us to stick to a well-organized lifestyle, and nothing workings better for it than reminders and notifications.
+
+    Considering this, and since I wanted to keep learning and practicing TypeScript independently of my external circumstances, creating a customized React Native application inspired by my new condition, my roommate's passion for plants, and our overall lack of time management felt like the only possible solution. 
+    
+    Why React Native, though? In all honesty, and due to the convoluted nature of our daily lives, it seemed appropriate to make Plan(t) Your Life fit in our pockets; this way, we won't forget to pay attention to what truly matters to us.
+  techstack:
+    - HTML
+    - CSS
+    - TypeScript
+    - React Native
+    - Expo CLI
+
+  links:
+    - title: '@SummerCodeFest-PlantYourLife'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/SummerCodeFest-PlantYourLife'
+    
+    - title: React Native Docs
+      icon: Compass
+      url: 'https://reactnative.dev/docs/getting-started'
+
+- title: M.Pomodoro Rajoy - Summer Code Fest
+  slug: SummerCodeFest-M.Pomodoro-Rajoy
+  description: |
+    This project was part of the Summer Code Fest (inspired by the "Summer Game Fest", probably one of the most terrible ideas we ever had as a society), and aimed to practice the basics I couldn't explore in IT Academy's bootcamp. In this case, and after giving Next.js a try by creating a small [Spotify Replica](https://github.com/JuditKaramazov/SummerCodeFest-Spotify), I focused on some of the subjects mattering the most both to me and most of the Spanish citizens: 
+
+    1. The difficulty to stay focused during the summer.
+    2. The unsettling feeling our 2023 elections were eliciting from us.
+    3. The relevant figure of Mariano Rajoy, which wasn't so great whenever politics were involved, but that became essential from a comical standpoint.
+    4. The importance of learning and practicing TypeScript (maybe this isn't affecting the entire country, but it still is a crucial matter).
+
+    Considering this, I created a customized [M. Pomodoro Rajoy Timer](https://m-pomodoro-rajoy.vercel.app/) greatly inspired by some of our ex-president's most memorable quotes. 
+    
+    Why? Because we all need to find the strength and courage to focus on our goals, wants, and wishes, and I believe that some of his emblematic sentences could fuel our spirit during difficult times. However, I do consider it essential to highlight that the intention of this small app is not based on attacking various ideologies and positions. Far the contrary, I would want this space to bring a smile to the ones struggling with their studies, work, and overall time management.
+  techstack:
+    - HTML
+    - CSS
+    - TypeScript
+    - React
+    - Vite
+
+  links:
+    - title: '@SummerCodeFest-M.Pomodoro-Rajoy'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/SummerCodeFest-M.Pomodoro-Rajoy'
+    
+    - title: M.Pomodoro Rajoy
+      icon: Compass
+      url: 'https://m-pomodoro-rajoy.vercel.app'
+
+- title: Spotify Replica - Summer Code Fest
+  slug: SummerCodeFest-Spotify
+  description: |
+    This project was part of the Summer Code Fest (inspired by the "Summer Game Fest" - what an unsettling idea!) and aimed to practice the basics of Next.js, authentication, and Tailwind CSS. 
+    
+    The project provided a Spotify interface and allowed users to explore and interact with various Spotify features:
+
+    1. Login page and authentication using Spotify credentials.
+    2. User's libraries, including playlists, liked songs, and more.
+    3. Featured playlists and artists recommended by Spotify.
+    4. Search bar to search for songs, artists, albums, and playlists.
+
+    Please note that while most of Spotify's features are available, some functionalities are still under development and will be added in the future! However, I still found it a nice practice to get to understand better some tools I wasn't familiarized with.
+  techstack:
+    - React
+    - Next.js
+    - HTML
+    - Tailwind CSS
+    - JavaScript
+
+  links:
+    - title: '@SummerCodeFest-Spotify'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/SummerCodeFest-Spotify'
+
+    - title: Annotations, Google UX design
+      icon: Compass
+      url: 'https://bootcamp.uxdesign.cc/annotations-google-ux-design-professional-certificate-course-1-7-ede0fc59c32'
+
+- title: expaTICs
+  slug: expaTICs
+  description: |
+    Not so long ago, I went on a journey that took me to Upper Austria, which is considerably far away from my country, both geographically and mentally speaking. The only thing that I metaphorically took with me was this vague, distant story about my grandmother moving to Germany after our Civil War had finished, with no German knowledge nor any sort of proper formation. The only thing that she kept with her was the urge of finding a stable job that would eventually allow her to come back to our country and take back her life. Even though our situations were drastically different, I could still feel this deep connection with all the German-speaking countries, their reality, and the idea that I created about it in my mind.
+
+    expaTICs came to mind some weeks ago, back in my country, and still reminding a conversation that I had with my dear Paulita in Austria: the expat experience can be a solitary, painful path, independently of how connected we seem to be these days.
+
+    Although this wasn't my case, the critical challenge of migration and displacement is as undeniable as the need to coordinate solutions at local, regional, and global levels. Unfortunately, that's far beyond my capabilities; however, I thought that a little application as my final project would be a nice tribute to give to everyone that deconstructed and had to build again their realities - not to mention all the people that I met during my personal journey.
+    
+    If you are still wondering why expaTICs exists, allow me to highlight another reason: I probably would have never started programming if it wasn't thanks to the scholarship that I got during my stay in Austria. That's the very essence of expaTICs:
+    
+    1. a representation of the expatriates' journey
+    2. the possibilities that go along with it (allowing me to start a TIC formation, in my case)
+    
+    merged together.
+
+    The combination of these two ideas resulted in the following utilities and features:
+    
+    1. The usage of OpenAI API.
+    2. User management, implemented thanks to Firebase authentication system combined with localStorage.
+    3. Private routes granting users free access to the site's landing page, as well as the login, sign up and restore password sections of it, but preventing them from accessing the Dashboard (our application's very core) without previous registration.
+    4. The possibility of editing their own data individually (e.g. a color tracker tool that's only accessible to its owner) or openly (e.g. a pseudo-wiki allowing users to collectively craft and deploy notes regarding best places, events, activities, etc.).
+    5. The integration of different sections focused on the users and their psychological well-being.
+  techstack:
+    - HTML
+    - React
+    - JavaScript
+    - OpenAI API
+    - Next.js
+    - Styled-components
+    - Firebase
+
+  links:
+    - title: '@expaTICs'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/expaTICs'
+
+    - title: Learn Next.js for Scalable Web Apps
+      icon: Compass
+      url: 'https://www.freecodecamp.org/news/learn-next-js-tutorial'
+
+- title: Star Wars Application
+  slug: Sprint8
+  description: |
+    In all sincerity, I never connected with the idea of communities congregating to share their love and criticism of a specific multimedia work, no matter how passionate I am about certain artistic artifacts. This passion always existed deep within, as a silent one, and just as the "daughter of my generation" that I am, the scope of this passion was remarkably reduced to (and highly influenced by) the decade of the 90s and its most relevant media, films, games and pop culture.
+    
+    Star Wars was never a solid reference according to my relationship to the collective imaginary, though; however, its influence is as undeniable as it has been well-established and consolidated through the years, and that's probably why IT Academy asked us to work on a project related to this specific universe.
+
+    The final result should fetch each starship's data (including films and pilots) from the SWAPI Star Wars API (https://swapi.dev/) while combining it with the visual assets provided by https://starwars-visualguide.com/. After accessing an entire list located in the Starships section, the user can check all the information fetched with Axios, which is the HTTP client-based package I decided to use in order to communicate and send requests to the REST endpoints.
+    
+    Although the simplicity of the application is what seems to be an undeniable reality, there was, of course, a little extra: it was necessary to incorporate a registration system and protected routes just so only registered users could access the exclusive content. In order to achieve it, I had to work on the following utilities:
+    
+    1. The already mentioned Star Wars APIs.
+    2. User management, implemented thanks to localStorage usage.
+    3. A Sign Up, Login and Sign Out system keeping track of new users, unregistered, and already registered ones, which allows the user to sign up, log in, finish their session and still keep their information stored. As you can see in the previous image, the site greets the registered users by displaying their names on the screen.
+    4. Private routes granting users free access to Home (a so-called "welcome page" with a slider integrated) and the About section, but showing an alert and preventing them from accessing the Starships one without previous registration.
+    5. An infinite scroll system followed by different "Loading..." or "All starships successfully loaded!" messages, making it more accessible for the user to navigate the list.
+  techstack:
+    - HTML
+    - JavaScript
+    - React
+    - Styled-components
+    - SWAPI Star Wars
+
+  links:
+    - title: '@Sprint8'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Sprint8'
+
+    - title: Judit is No Jedi
+      icon: Compass
+      url: 'https://juditisnojedi.vercel.app/'
+
+- title: Budget Application
+  slug: Sprint7
+  description: |
+    Is there something we all want, need, and dream of - but none of us have? Exactly: money. With this sad and yet relatable idea in mind, the following project aimed to offer a humble application allowing hypothetical users to estimate the price of a website, as well as obtain a desirable response according to the options they chose and their different prices.
+
+    Independently of the apparent simplicity of the project, it allows for interacting more directly with the client as we are taking into account their choices and preferences, and also providing them with tools for a smoother experience, such as:
+
+    1. a search bar.
+    2. buttons sorting their saved lists by date and name.
+    3. an individualized deleting system for each list created.
+    4. the possibility of clearing all their saved budgets at once.
+    5. a pagination system focused on making their saved data more accessible.
+    6. the possibility of keeping their budget options saved in the URL.
+    
+    By combining all of these elements, we delivered if not a great tool (note that this was the creator's second React project, so of course it was not good at all!), at least an intuitive one.
+  techstack:
+    - HTML
+    - JavaScript
+    - React
+    - Styled-components
+  
+  links:
+    - title: '@Sprint7'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Sprint7'
+    
+    - title: Modern Web Development Site
+      icon: Compass
+      url: 'https://fullstackopen.com/en/'
+
+- title: First React App
+  slug: Sprint6
+  description: |
+    The following project consisted of an application capable of showing different quotes and accordingly switching the background images just so the hypothetical client of a fictional company can see an initial approximation of the prototype we were supposed to work on. 
+    
+    Considering that one of the objectives was consistently displaying the different quotes and images, we used [Vite](https://vitejs.dev/guide/) as the base of our project, a build tool that aims to provide a faster and leaner development experience for modern web projects. Thanks to it, it was possible to implement a Welcome screen, as well as a first component consisting of an array with two different properties:
+    
+    1. img, which stored the background images that should be displayed on the screen.
+    2. txt, which contained four different quotes.
+
+    In order to customize the assignment, however, I decided to include new designs and quotes extracted from the [Tao Te Ching](https://terebess.hu/english/tao/gia.html) while still respecting the basis of the project; the objective, in this case, varied from telling a story to providing the user with some meaningful and philosophical quotes.
+
+    It would have been impossible for me to achieve this result if it wasn't thanks to incredibly talented illustrators such as [Helvetica Blanc](https://helveticablanc.com/), the creator behind the artwork that illustrates this application. If you still don't know their work, please, have a look at it (it's simply amazing; you have my word!) - and try your best to support (in any way possible) these creators with such a unique vision of reality.
+  techstack:
+    - HTML
+    - SCSS
+    - JavaScript
+    - React
+
+  links:
+    - title: '@Sprint6'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Sprint6'
+
+    - title: Thinking in React
+      icon: Compass
+      url: 'https://react.dev/learn/thinking-in-react'
+
+- title: Video Management Tool
+  slug: Sprint4
+  description: |
+    Hypothesis: A company in the audiovisual sector has asked us for a web application that will allow their employees to quickly find movies from a large database they have, since the process is currently done manually.
+    
+    You will be in charge of setting up the core of the application: all the logic of filtering and sorting of movies. You have 2 weeks to finish, which is how long this sprint lasts. 2015 and 2017, I was co-designing and leading the UI design & development for various web properties of ChartMogul. I played a key role in creating a components-based UI design system and incorporating it across all web touchpoints.
+
+    The problem is that, even though no one truly asked me to do this, I decided to add a minimal Bootstrap landing page just so I could both explore new designs and express my gratitude to:
+    
+    1. Auregan Nedelec
+    2. Freepik project
+    
+    for their visual contributions and inspiration. Thanks a lot!
+  techstack:
+    - HTML
+    - SCSS
+    - Bootstrap
+    - JavaScript
+
+  links:
+    - title: '@Sprint4'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Sprint4'
+
+- title: The Zero Shop
+  slug: Sprint-3
+  description: |
+    As a first contact with JavaScript, IT Academy told us that a company in the e-commerce sector asked for a web application allowing them to offer the purchase of their products through the internet. 
+    
+    After interiorizing some essential notions regarding web design thanks to the first sprints, we will now be in charge of setting up an initial demo version of the application for the client: management of the shopping cart and the application of the promotions on the final price.
+
+    These were the prototypes we had to work with:
+    
+    1. the main site, providing users with functionalities such as adding products to the cart or showing a modal that includes the products they bought, their individual prices and the total one.
+    2. a checkout page with a proper validation system accepting certain conditions, depending on the field; if these conditions are not met, it doesn't allow the user to submit their form until all tests have been passed.
+    
+    Even though IT Academy came up with an already-made design, I decided to add some minimal changes while still respecting the requirements and expected features.
+  techstack:
+    - HTML
+    - SCSS
+    - Bootstrap
+    - JavaScript
+
+  links:
+    - title: '@Sprint-3'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Sprint-3'
+
+    - title: You don't know JavaScript - yet
+      icon: Compass
+      url: 'https://github.com/getify/You-Dont-Know-JS'
+
+- title: A Simple Bookmark Manager
+  slug: Sprint2
+  description: |
+    What is a UI library? How about Bootstrap and SASS? Why should I consider using this software system (or toolchain) that comes with a collection of components that could make my life way easier? 
+    
+    Although the first and second questions are completely understandable when we're just starting to dive into this immense area of knowledge, getting in touch with Bootstrap's definition pointing it as one of the most popular CSS frameworks for developing responsive and mobile-first websites should be a reason enough to, at least, give it a try - and that's what we did.
+    
+    Once we thoroughly studied these new realities, their usage, and advantages, IT Academy proposed a project consisting of replicating A simple bookmark manager.
+    
+    The entire landing page incorporated:
+    
+    1. the main content with its corresponding navbar.
+    2. a features section explaining the most remarkable characteristics of this (fictional) tool.
+    3. a download section including Chrome, Firefox, and Opera versions of the extension.
+    4. a FAQS section that allowed us to incorporate an accordion component.
+    5. a footer with a Contact us area that would throw an error whenever the form receives an empty email address or an invalid one.
+  
+  techstack:
+    - HTML
+    - SCSS
+    - Bootstrap
+ 
+  links:
+    - title: '@Sprint2'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Sprint2'
+
+    - title: Getting started with Bootstrap
+      icon: Compass
+      url: 'https://getbootstrap.com/docs/4.3/getting-started/introduction/'
+
