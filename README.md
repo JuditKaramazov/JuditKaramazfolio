@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="deploymentsite.com"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karaLogo.png" width="500" height="500" alt="Main site logo" /></a>
+  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karaLogo.png" width="500" height="500" alt="Main site logo" /></a>
 </p>
 <h2 align="center">
   Karamazfolio
 </h2>
 <p align="center">
   <a href="https:/github.com/JuditKaramazov/JuditKaramazfolio">🐱/JuditKaramazfolio</a>
+  <a href="https://karamazfolio.vercel.app/">📍Official site</a>
 </p>
 
 ---
