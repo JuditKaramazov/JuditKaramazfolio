@@ -1,0 +1,67 @@
+.sectionTitle {
+  margin-top: calc(var(--spacer) * 2);
+  font-size: var(--font-size-h3);
+  text-align: center;
+}
+
+.projectTechstack ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 80px;
+  margin-right: 80px;
+  justify-content: center;
+  gap: calc(var(--spacer) / 2);
+  padding: var(--spacer);
+}
+
+.projectTechstack li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--box-background-color);
+  border-radius: var(--border-radius);
+  border: 0.05rem solid transparent;
+  font-size: var(--font-size-small);
+  padding: calc(var(--spacer) / 4);
+  transition: font-size 0.2s;
+  text-align: center;
+}
+
+.projectTechstack li:hover {
+  font-size: 0.9em;
+}
+
+.contentDownload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.contentDownload .btnPrimary {
+  margin-bottom: calc(var(--spacer) / 2);
+  background-color: var(--brand-cyan);
+  color: var(--brand-light);
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+  padding: 0.6rem 1.2rem;
+  text-decoration: none;
+}
+
+.contentDownload .btnPrimary:hover {
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.dark .contentDownload .btnPrimary {
+  background-color: var(--brand-main-light);
+  color: var(--brand-cyan);
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2);
+}
+
+.dark .contentDownload .btnPrimary:hover {
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.4);
+}

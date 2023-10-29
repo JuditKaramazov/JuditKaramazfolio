@@ -1,0 +1,21 @@
+.header {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: calc(85vh - var(--spacer));
+  max-height: 1000px;
+  justify-content: flex-start;
+  padding: calc(var(--spacer) / 2);
+  padding-top: 5vh;
+  text-align: center;
+}
+
+.meta {
+  margin-top: auto;
+}
+
+.small {
+  min-height: 0;
+  padding-top: calc(var(--spacer) * 2);
+  padding-bottom: 0;
+}

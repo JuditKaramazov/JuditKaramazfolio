@@ -1,0 +1,51 @@
+.repo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius);
+  background: var(--box-background-color);
+  padding: var(--spacer);
+}
+
+.repo > * {
+  width: 100%;
+}
+
+.repo p {
+  font-size: var(--font-size-small);
+}
+
+.repo p:last-child {
+  margin: 0;
+}
+
+.repoTitle {
+  font-size: var(--font-size-h5);
+  margin-bottom: calc(var(--spacer) / 2);
+}
+
+.meta {
+  display: flex;
+  align-self: flex-end;
+  justify-content: space-between;
+  font-size: var(--font-size-small);
+}
+
+.meta a {
+  display: inline-block;
+  color: var(--text-color-light);
+  font-variant-numeric: lining-nums;
+}
+
+.meta a:hover,
+.meta a:focus {
+  color: var(--brand-cyan);
+}
+
+.meta svg {
+  width: var(--font-size-small);
+  height: var(--font-size-small);
+  margin-right: calc(var(--spacer) / 12);
+  margin-bottom: -0.1rem;
+}

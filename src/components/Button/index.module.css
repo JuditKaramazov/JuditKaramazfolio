@@ -1,0 +1,41 @@
+.button {
+  display: block;
+  width: 100%;
+  background: var(--box-background-color);
+  border: var(--stroke-width) solid rgba(255, 255, 255, 0.2);
+  border-radius: var(--border-radius);
+  color: var(--link-color);
+  font-size: var(--font-size-small);
+  text-align: center;
+  text-transform: uppercase;
+  padding: calc(var(--spacer) / 4) calc(var(--spacer) / 2);
+  transition-property: all;
+  cursor: pointer;
+}
+
+@media (min-width: 30rem) {
+  .button {
+    display: inline-block;
+    width: auto;
+  }
+}
+
+.button svg {
+  width: var(--font-size-small);
+  height: var(--font-size-small);
+  margin-right: calc(var(--spacer) / 4);
+  margin-bottom: -0.15rem;
+  transition: 0.2s var(--easing);
+}
+
+.button:hover,
+.button:focus {
+  border-color: var(--link-color);
+  box-shadow: var(--box-shadow);
+  transform: translate3d(0, -0.1rem, 0);
+}
+
+.button:active {
+  background: var(--box-background-color);
+  transition: none;
+}

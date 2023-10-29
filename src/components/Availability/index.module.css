@@ -1,0 +1,22 @@
+.availability {
+  z-index: 2;
+  display: block;
+  border-radius: var(--border-radius);
+  color: var(--text-color-light);
+  font-size: var(--font-size-small);
+  padding: calc(var(--spacer) / 2);
+}
+
+.availability p {
+  margin-bottom: 0;
+}
+
+.available {
+  position: fixed;
+  bottom: var(--spacer);
+  left: 50%;
+  background: var(--body-background-color);
+  box-shadow: var(--box-shadow);
+  color: var(--text-color);
+  transform: translateX(-50%);
+}
