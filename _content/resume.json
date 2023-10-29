@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Judit Lázaro Moyano",
+    "label": "developer, philologist & tightrope walker",
+    "picture": "../src/images/avatar.jpg",
+    "email": "j.lazaromoyano7@gmail.com",
+    "website": "https://github.com/JuditKaramazov",
+    "summary": "",
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "@miss.oranjediscodancer",
+        "url": "https://www.instagram.com/miss.oranjediscodancer/"
+      },
+      {
+        "network": "Linkedin",
+        "username": "@juditlazaromoyano",
+        "url": "https://www.linkedin.com/in/juditlazaromoyano/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JuditKaramazov",
+        "url": "https://github.com/JuditKaramazov"
+      }
+    ],
+    "location": {
+      "city": "Barcelona",
+      "countryCode": "ES"
+    }
+  },
+  "work": [
+    {
+      "company": "IT Academy",
+      "position": "Front End Developer",
+      "startDate": "2023-02-01",
+      "summary": "Creating a collaborative hub for students to share relevant resources regarding the latest web development technologies."
+    },
+    {
+      "company": "Caritas INVITA",
+      "position": "Social Worker",
+      "startDate": "2021-11-01",
+      "endDate": "2022-10-01",
+      "summary": "Assisting people with psychological and physical disabilities in working and developing their educational interests."
+    },
+    {
+      "company": "Freelance",
+      "position": "Private tutor",
+      "startDate": "2011-01-01",
+      "summary": "Offering innovative and helpful methodologies based on my students' specific needs and passions."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coursera & Google",
+      "area": "UI Design",
+      "studyType": "Autodidactic",
+      "startDate": "1999-01-01"
+    },
+    {
+      "institution": "IT Academy - Barcelona",
+      "area": "Frontend Development - React",
+      "studyType": "Bootcamp",
+      "startDate": "2023-02-13",
+      "endDate": "2023-07-01"
+    },
+    {
+      "institution": "Samsung Tech Institute - DesArrolladoras",
+      "area": "Full Stack Development",
+      "studyType": "Bootcamp",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01"
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "area": "Advanced Studies in Spanish and Latin American Literature",
+      "studyType": "Master Degree",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01"
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "area": "Spanish Philology",
+      "studyType": "Bachelor Degree",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spanish Philology",
+      "level": "Master",
+      "keywords": [
+        "Spanish Philology",
+        "Advanced Studies in Spanish and Latin American Literature"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "TypeScript",
+        "Node.js",
+        "SASS/SCSS",
+        "React",
+        "React Native",
+        "Angular",
+        "Styled Components"
+      ]
+    },
+    {
+      "name": "General Software Development",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Bash",
+        "Agile: Kanban & Scrum"
+      ]
+    },
+    {
+      "name": "UX Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Interface Design",
+        "User Experience Design",
+        "Communication Design",
+        "Interaction Design",
+        "Information Architecture"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic-Intermediate speaker"
+    }
+  ],
+  "meta": {
+    "lastModified": ""
+  }
+}

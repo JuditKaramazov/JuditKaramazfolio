@@ -1,0 +1,16 @@
+{
+  "description": "Digital portfolio of Judit Lázaro.",
+  "img": "karamaBrand.png",
+  "url": "https://github.com/JuditKaramazov",
+  "availability": {
+    "status": false,
+    "available": "👔 Available for new projects. <a href=\"mailto:j.lazaromoyano7@gmail.com\">Let’s talk</a>!",
+    "unavailable": "Not available for new projects."
+  },
+  "metaphoricalCoffee": "https://calendly.com/jkaramazov/cafe-time",
+  "addressbook": "/judit-lazaro-moyano.vcf",
+  "bugs": "",
+  "allowedHosts": [
+    "localhost"
+  ]
+}
