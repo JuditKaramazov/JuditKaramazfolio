@@ -1,9 +1,18 @@
 <p align="center">
   <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karaLogo.png" width="550" height="550" alt="Main site logo" /></a>
 </p>
-<h2 align="center">
-  Karamazfolio
-</h2>
+<h1 align="center">
+  Karamazfolio, v.1.0
+</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5" alt="HTML" title="HTML" />
+  <img src="https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3" alt="CSS" title="CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react" alt="React.js" title="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="Next.js" title="Next.js" />
+  <img src="https://img.shields.io/badge/YAML-2C8EBB?logo=yaml" alt="YAML" title="YAML" />
+</div>
+<br />
 <p align="center">
   <a href="https:/github.com/JuditKaramazov">🐱 /JuditKaramazov</a>
 </p>
@@ -13,28 +22,30 @@
 
 ---
 
-- [Introduction](#-introduction)
-- [Getting Started](#-getting-started)
-- [Features](#-features)
-  - [YAML file](#-yaml-file)
-  - [Repositories](#-repositories)
-  - [Theme switcher](#-theme-switcher)
-  - [Typekit integration](#-typekit-integration)
-  - [vCard](#-vcard)
-- [Scripts](#-scripts)
-  - [New projects](#-new-projects)
-- [Style](#-style)
-- [Deployment](#-deployment)
-- [Learn More](#-getting-started)
+- 1️⃣. [Introduction](#introduction)
+- 2️⃣. [Getting Started](#getting-started)
+- 3️⃣. [Structure](#structure)
+- 4️⃣. [Features](#features)
+  - ↘️ [YAML file](#yaml-file)
+  - ↘️ [Geek resume](#geek-resume)
+  - ↘️ [Repositories](#repositories)
+  - ↘️ [Theme switcher](#theme-switcher)
+  - ↘️ [Typekit integration](#typekit-integration)
+  - ↘️ [vCard](#vcard)
+- 5️⃣. [Scripts](#scripts)
+  - ↘️ [New projects](#new-projects)
+- 6️⃣. [Future Updates](#future-updates)
+- 7️⃣. [Style](#style)
+- 8️⃣. [Learn More](#getting-started)
 
 
-## Introduction
+# Introduction
 
-There was a time when I thought we were all shackled to the labels apparently describing our persona. According to them, I was destined to become a Spanish Literature professor, but time proved that as polyhedral, multifaceted beings, it is not possible to capture the essence of who we are and confine it into a couple of adjectives.
+There was a time when I thought we were all shackled to the labels apparently describing our persona. According to them, I was destined to become a Spanish Literature professor, but time proved that as polyhedral, multifaceted beings, it is not possible to capture the essence of who we are and confine it into a couple of adjectives and life experiences. Do not get me wrong: whatever happened in our lives, it did matter and leave its unique marks. However, such details can't contain in its margins the immensity of our curiosity, failures, successes, memories, and future goals.
 
-Many years ago, I convinced myself that I could `only` be this Philologist side of me, but today I wanted to remember this complex being called Judit that she's something more than that, too - way too many other things, including a programmer.
+Many years ago, I convinced myself that I could `only` be this Philologist side of me, but today I wanted to remind this complex being called Judit that she's something more than that, too - she's way too many other things, including a programmer.
 
-## Getting Started
+# Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Considering this, remember to follow the next steps:
 
@@ -55,17 +66,29 @@ $ npm install
 $ npm start
 ```
 
-## Features
+# Structure
 
-Although it may seem there's nothing much to clarify other than remarking the fact that I `finally` decided to create a portfolio, I find it relevant to point that this project is a React-based single page app in TypeScript, using only statically generated pages.
+Initially, the main goal that I pursued was keeping this site as clean, scalable, and maintainable as possible while keeping in mind my limited tools and knowledge, and that's the reason why each section and component follows a minimal (and yet descriptive enough) approach. I know it pretty much well: there is a global tendency to display the entire formation, work experience, languages, and overall paths and decisions that built the person we are today. However, and since this portfolio focuses on practicality rather than pure data, what you'll find by cloning this repository or simply having a look at the deployment site is:
+
+1. A header containing a brief `introduction` of who Judit is: a tightrope walker, indeed.
+2. A general view of my `technology stack`.
+3. A `downloadable CV`, just in case you'd want to know more about my previous experience and relevant formation.
+4. A preview of the main `projects` I've been working on so far.
+5. Some of the most relevant `repositories` I'm contributing to.
+6. A footer containing some relevant `links` for us to `stay in touch`, `schedule interviews` (as well as some coffee moments), and contribute to `maintaining this site` by letting me know about potential problems and bugs.
+
+
+# Features
+
+Although it may seem there's nothing much to clarify other than noting that I `finally` decided to create a portfolio, I find it relevant to mention that this project is a React-based single page app in TypeScript, using only statically generated pages.
 
 ![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-01.png)
 
-Considering this, it's also important to highlight that Next.js creates pages from each item automatically thanks to the [`src/pages/[slug].tsx`](src/pages/[slug].tsx) template you'll find if you decide to dive into the repository's very essence. This said, let's now discuss a feature closely related to this idea:
+Considering this, it's also important to highlight that Next.js creates pages from each item automatically thanks to the [`src/pages/[slug].tsx`](src/pages/[slug].tsx) template you'll find if you dive into the repository's very essence and guts. With this said, let's now discuss a feature closely related to this idea:
 
-### YAML file
+## YAML file
 
-The entire definition of the projects displayed in this portfolio is contained by a `YAML file`, which allows the user to convert Markdown into HTML on build time; that's what possibilitates Next.js to automatically generate pages from each item. In other words, the YAML file serves as a central repository for all project-related information, allowing us to define project details, descriptions, and other metadata in a clear and organized manner. Since the use of YAML allows for easy data manipulation, it makes it an ideal choice for structuring content and storing data:
+The entire definition of the projects displayed in this portfolio is contained by a `YAML file`, which allows the user to convert Markdown into HTML on build time; that's what possibilitates Next.js to automatically generate pages from each item. In other words, the YAML file serves as a central repository for all project-related information, allowing us to define project details, descriptions, and metadata in a clear and organized manner. Since the use of YAML allows for easy data manipulation, it makes it an ideal choice for structuring content and storing data:
 
 - **Readability**: It's human-readable and easy to write.
 - **Structured**: YAML is designed to represent complex data structures, which makes it suitable for storing structured information like project details.
@@ -89,7 +112,12 @@ To learn more about how it's integrated in the portfolio, don't hesitate to have
 
 And as we'll mention in a while, please, remember the importance of structuring our site correctly for our latest work to be in the spotlight.
 
-### Repositories
+## Geek resume
+
+Because who doesn't want to be embrace the warmth of them bright lights, right? Actually, and as you probably assumed after getting a clearer idea of this project's goals, development and skeleton, I am not the kind of person who particularly enjoys describing her strengths, highlights or aptitudes. Even though that's an undenniable reality that I'm still trying to fight, and independently of this portfolio aiming to define and represent a more practical approach, I still incorporated a `second (and hidden) resume`. Would you describe yourself as an archeologist of the code? That's perfect, then! If you'd want to know more about me and still avoid the idea of a conventional CV or resume, feel free to investigate the depths of my code. 
+You might find something, if not surprising, at least minimally interesting by doing so!
+
+## Repositories
 
 As for the repositories themselves, all of them are fetched on build time directly from GitHub, filtered, sorted, and finally displayed on the front page. Here's how it works:
 
@@ -103,12 +131,12 @@ As for the repositories themselves, all of them are fetched on build time direct
 
 The repositories are sorted based on their last push date, with the most recently updated repositories appearing at the top, which allows to showcase our most recent work effectively. Some interesting open-source projects will definitely be added in the future, so don't forget to check from time to time if there are any news!
 
-### Theme switcher
+## Theme switcher
 
-Because having a look every now and then stops us from staying in the dark, right...? In this case, and since I myself am quite sensitive whenever a truly powerful light attacks my eyes, incorporating a `theme switcher` capable of automatically toggle between a light and a dark mode based on the user's system preferences became a `must`.
+Because having a look every now and then stops us from staying in the dark, right...? In this case, and since I myself am quite sensitive whenever a powerful light attacks my eyes, incorporating a `theme switcher` capable of automatically toggle between a light and a dark mode based on the user's system preferences became a `must`.
 
-### Typekit integration
-Speaking of which: the portfolio uses a new `must` to me, Typekit, a service that provides amazingly interesting fonts for web design. What's the best part of handling its integration process by our Typekit component, you'll wonder?
+## Typekit integration
+Speaking of which, the portfolio uses a new `must` to me: Typekit, a service that provides amazingly interesting fonts for web design. What's the best part of handling its integration process by our Typekit component, you'll wonder?
 
 1. **Script Configuration**: The `Typekit` component configures and loads a JavaScript script provided by Typekit. The script is designed to fetch the fonts we might need for our site.
 
@@ -116,22 +144,22 @@ Speaking of which: the portfolio uses a new `must` to me, Typekit, a service tha
 
 3. **Enhancing Typography**: Once the script is successfully loaded, Typekit's fonts become available for use in your site's typography, improving the overall design and readability.
 
-![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-03.png)
-
 If you're interested in the technical details of how this integration is achieved, you can take a look at the component code in `src/components/Typekit/index.tsx`. However, from a user perspective, the important thing to know is that this integration enhances the visual appeal and readability of the site's text content - and that is indeed a must!
 
-### vCard
+## vCard
 
-Although there are some other components and features that would be interesting to discuss, I can't miss the opportunity of letting you know that the `Karamazfolio` also incorporates a downloadable `vCard file` based on the data that we previously defined in our meta content.
-In order to give it a try, remember that it's possible to automatically create it by adding me to your addressbook!
+Although there are some other components and features that would be interesting to discuss, I can't miss the opportunity to let you know that the `Karamazfolio` also incorporates a downloadable `vCard file` based on the data that we previously defined in our meta content.
+In order to give it a try, remember that it's possible to automatically create it by adding me to your address-book!
 
-## Scripts
+![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-03.png)
+
+# Scripts
 
 When it comes to `scripts`, the most remarkable element is how easy it became to add...
 
-### New projects
+## New projects
 
-Ready to showcase your latest project on your portfolio? It's a breeze! It is as simple as running the following command, which will allow the user to add new items to our projects file:
+Ready to showcase your latest project on your portfolio? It's a breeze! It is as simple as running the following command, which will allow the user to add new items to our `projects` file:
 
 ```bash
 $ npm run new -- "New"
@@ -139,19 +167,33 @@ $ npm run new -- "New"
 
 Considering that our images will follow the `SLUG-01.png` format, make sure that the title and the slug of the project coincide; this way, the previous command will add a new project entry to the `projects.yml` file, and they will be automatically created based on the name we provided.
 
-There's no way we can't know the many times we will use that specific command nor the projects we'll work on in the future, but as long as there's still a reason to keep learning, practicing, and demonstrating ourselves than we are more than a label, nothing should stop us.
+There's no way we can't know the many times we will use that specific command or the projects we'll work on in the future, but as long as there's still a reason to keep learning, practicing, and demonstrating ourselves that we are more than a label, nothing should stop us.
 
-## Style
+# Future Updates
+
+As stated before, one of this portfolio's main goals gravitates around the idea of making it `scalable`, `maintainable`, and `better` - both for you as visitors and for me as the strange woman trying to figure out how to code something capable of representing my own standards, preferences, and wishes without making my computer explode in the process.
+With this idea in mind, and due to my curious nature, some of the future updates that I'm planning consist of:
+ 
+>     - [ ] Implementation of languages (ES, FR).
+>     - [ ] Dynamic availability and location.
+>     - [ ] Testing integration (Jest, react-testing-library).
+>     - [ ] New sections.
+>     - [ ] Building a CI/CD pipeline.
+
+Please bear in mind that I plan to keep this repository up to date by actively creating new issues, incorporating sections, and working on any technological improvements and changes that may affect its proper functioning. Also, remember that this list is not exhaustive, and I'll continue adding more `checkboxes` to it as I identify new opportunities for improvement. I do value your feedback, and I'm highly responsive to suggestions and ideas that may enhance our experience on this platform, so do not hesitate to share your thoughts with me!
+We're all learning here, after all - and I'm genuinely excited to share the journey of this project's growth and evolution with you.
+
+# Style
 
 Now that the technical part has been defined, I wouldn't want to close this (apparently) small (and yet crucial) chapter of my life without highlighting the beautiful art `Auregan Nedelec` provided me with.
 
 ![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-04.png)
 
-I never considered myself a "visual" person, nor someone capable of even describing the shapes and colours crossing my mind. "A pure Philologist", they said, and I still do believe they were right, in a way: the person you'll get to know in this portfolio `is` the literature maniac many people have in mind, too. However, something as simple as a little "doodle" ended up outlining and vertebrating the totality of this project - and I can't thank you enough for that, because it proves that no matter our many labels, something as simple as some shiny Trico eyes can enlighten and create entire universes.
+I never considered myself a "visual" person, nor someone capable of even describing the shapes and colors crossing my mind. "A pure Philologist", they said, and I still do believe they were right, in a way: the person you'll get to know in this portfolio `is` the literature maniac many people have in mind, too. However, something as simple as a little "doodle" ended up outlining and vertebrating the totality of this project - and I can't thank you enough for that because it proves that no matter our many labels, something as simple as some shiny Trico eyes can enlighten and create entire universes.
 As for the ones still reading my words: thank you, too, you little Tricos inhabiting this virtual world. 
 Oh, and if you are the curious type and want to start a neuronal apocalypse...
 
-## Learn More
+# Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -166,5 +208,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <br />
 
 <h1 align="center">
-  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="250" height="250" alt="Cactus visual asset">
+  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Cactus visual asset">
 </h1>
