@@ -9,7 +9,7 @@
   },
   "metaphoricalCoffee": "https://calendly.com/jkaramazov/cafe-time",
   "addressbook": "/judit-lazaro-moyano.vcf",
-  "bugs": "",
+  "bugs": "https://github.com/JuditKaramazov/JuditKaramazfolio/issues/new",
   "allowedHosts": [
     "localhost"
   ]
