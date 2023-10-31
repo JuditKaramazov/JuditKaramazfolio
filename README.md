@@ -74,9 +74,9 @@ Initially, the main goal that I pursued was keeping this site as clean, scalable
 2. A general view of my `technology stack`.
 3. A `downloadable CV`, just in case you'd want to know more about my previous experience and relevant formation.
 4. A preview of the main `projects` I've been working on so far.
-5. Some of the most relevant `repositories` I'm contributing to.
-6. A footer containing some relevant `links` for us to `stay in touch`, `schedule interviews` (as well as some coffee moments), and contribute to `maintaining this site` by letting me know about potential problems and bugs.
-
+5. A `detailed description` of my already-mentioned projects, illustrations, links to docs regarding the consulted technologies, and an accessible, visual approach to the rest of my work.
+6. Some of the most relevant `repositories` I'm contributing to.
+7. A footer containing some relevant `links` for us to `stay in touch`, `schedule interviews` (as well as some coffee moments), and contribute to `maintaining this site` by letting me know about potential problems and bugs.
 
 # Features
 
@@ -151,6 +151,10 @@ If you're interested in the technical details of how this integration is achieve
 Although there are some other components and features that would be interesting to discuss, I can't miss the opportunity to let you know that the `Karamazfolio` also incorporates a downloadable `vCard file` based on the data that we previously defined in our meta content.
 In order to give it a try, remember that it's possible to automatically create it by adding me to your address-book!
 
+It is also possible to schedule meetings with me via `Calendly`, but as you'll surely notice at some point, right now it's more a metaphorical concept than a solid appointment. However, if you're interested in exchanging some ideas or projects, do not hesitate to refer to the following link, where you'll find both my metaphorical and my literal availability.
+
+📆 See more -> [Calendly - JuditKaramazov](https://calendly.com/jkaramazov/)
+
 ![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-03.png)
 
 # Scripts
@@ -179,6 +183,8 @@ With this idea in mind, and due to my curious nature, some of the future updates
 >     - [ ] Testing integration (Jest, react-testing-library).
 >     - [ ] New sections.
 >     - [ ] Building a CI/CD pipeline.
+>     - [ ] Calendly improvements.
+>     - [ ] Techstack filters.
 
 Please bear in mind that I plan to keep this repository up to date by actively creating new issues, incorporating sections, and working on any technological improvements and changes that may affect its proper functioning. Also, remember that this list is not exhaustive, and I'll continue adding more `checkboxes` to it as I identify new opportunities for improvement. I do value your feedback, and I'm highly responsive to suggestions and ideas that may enhance our experience on this platform, so do not hesitate to share your thoughts with me!
 We're all learning here, after all - and I'm genuinely excited to share the journey of this project's growth and evolution with you.
@@ -206,6 +212,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 <br />
+
+---
 
 <h1 align="center">
   <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Cactus visual asset">
