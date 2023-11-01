@@ -1,0 +1,86 @@
+[
+    {
+        "title": "PlantYourLife - Summer Code Fest",
+        "description": "This project was part of the Summer Code Fest (inspired by the 'Summer Game Fest' - again!) and aimed to practice the basics of TypeScript, React Native, and Expo CLI.",
+        "descriptionHtml": "<p>This project was part of the Summer Code Fest (inspired by the 'Summer Game Fest' - again!) and aimed to practice the basics of TypeScript, React Native, and Expo CLI.</p>",
+        "slug": "SummerCodeFest-PlantYourLife",
+        "techstack": [
+            "HTML",
+            "CSS",
+            "TypeScript",
+            "React Native",
+            "Expo CLI"
+        ],
+        "links": [
+            {
+                "title": "@SummerCodeFest-PlantYourLife",
+                "icon": "GitHub",
+                "url": "https://github.com/JuditKaramazov/SummerCodeFest-PlantYourLife"
+            },
+            {
+                "title": "React Native Docs",
+                "icon": "Compass",
+                "url": "https://reactnative.dev/docs/getting-started"
+            }
+        ],
+        "images": [
+            {
+                "src": "/images/SummerCodeFest-PlantYourLife-01.png",
+                "width": 2880,
+                "height": 1600,
+                "format": "png"
+            },
+            {
+                "src": "/images/SummerCodeFest-PlantYourLife-02.png",
+                "width": 2880,
+                "height": 1600,
+                "format": "png"
+            },
+            {
+                "src": "/images/SummerCodeFest-PlantYourLife-03.png",
+                "width": 2880,
+                "height": 1600,
+                "format": "png"
+            }
+        ]
+    },
+    {
+        "title": "M.Pomodoro Rajoy - Summer Code Fest",
+        "description": "This project was part of the Summer Code Fest (inspired by the 'Summer Game Fest', probably one of the most terrible ideas we ever had as a society), and aimed to practice the basics I couldn't explore in IT Academy's bootcamp. In this case, and after giving Next.js a try by creating a small [Spotify Replica](https://github.com/JuditKaramazov/SummerCodeFest-Spotify), I focused on some of the subjects mattering the most both to me and most of the Spanish citizens.",
+        "descriptionHtml": "<p>This project was part of the Summer Code Fest (inspired by the 'Summer Game Fest', probably one of the most terrible ideas we ever had as a society), and aimed to practice the basics I couldn't explore in IT Academy's bootcamp. In this case, and after giving Next.js a try by creating a small [Spotify Replica](https://github.com/JuditKaramazov/SummerCodeFest-Spotify), I focused on some of the subjects mattering the most both to me and most of the Spanish citizens.</p>",
+        "slug": "SummerCodeFest-M.Pomodoro-Rajoy",
+        "techstack": [
+            "HTML",
+            "CSS",
+            "TypeScript",
+            "React",
+            "Vite"
+        ],
+        "links": [
+            {
+                "title": "@SummerCodeFest-M.Pomodoro-Rajoy",
+                "icon": "GitHub",
+                "url": "https://github.com/JuditKaramazov/SummerCodeFest-M.Pomodoro-Rajoy"
+            },
+            {
+                "title": "M.Pomodoro Rajoy",
+                "icon": "Compass",
+                "url": "https://m-pomodoro-rajoy.vercel.app"
+            }
+        ],
+        "images": [
+            {
+                "src": "/images/SummerCodeFest-M.Pomodoro-Rajoy-01.png",
+                "width": 2880,
+                "height": 1600,
+                "format": "png"
+            },
+            {
+                "src": "/images/SummerCodeFest-M.Pomodoro-Rajoy-02.png",
+                "width": 2880,
+                "height": 1600,
+                "format": "png"
+            }
+        ]
+    }
+]
