@@ -4,6 +4,9 @@
 <h1 align="center">
   Karamazfolio, v.1.0
 </h1>
+<p align="center">
+  <a href="https://codeclimate.com/github/JuditKaramazov/JuditKaramazfolio/maintainability"><img src="https://api.codeclimate.com/v1/badges/5fc37bddddf76f58ffab/maintainability" /></a>
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5" alt="HTML" title="HTML" />
   <img src="https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3" alt="CSS" title="CSS" />
@@ -180,9 +183,9 @@ With this idea in mind, and due to my curious nature, some of the future updates
  
 >     - [ ] Implementation of languages (ES, FR).
 >     - [ ] Dynamic availability and location.
->     - [ ] Testing integration (Jest, react-testing-library).
+>     - [x] Testing integration (Jest, react-testing-library).
 >     - [ ] New sections.
->     - [ ] Building a CI/CD pipeline.
+>     - [x] Building a CI/CD pipeline.
 >     - [ ] Calendly improvements.
 >     - [ ] Techstack filters.
 
