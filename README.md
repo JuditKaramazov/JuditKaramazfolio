@@ -6,6 +6,7 @@
 </h1>
 <p align="center">
   <a href="https://codeclimate.com/github/JuditKaramazov/JuditKaramazfolio/maintainability"><img src="https://api.codeclimate.com/v1/badges/5fc37bddddf76f58ffab/maintainability" /></a>
+  <a href="https://codeclimate.com/github/JuditKaramazov/JuditKaramazfolio/test_coverage"><img src="https://api.codeclimate.com/v1/badges/5fc37bddddf76f58ffab/test_coverage" /></a>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5" alt="HTML" title="HTML" />
