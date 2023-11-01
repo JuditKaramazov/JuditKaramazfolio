@@ -1,0 +1,45 @@
+{
+    "title": "PlantYourLife - Summer Code Fest",
+    "description": "This project was part of the Summer Code Fest (inspired by the 'Summer Game Fest' - again!) and aimed to practice the basics of TypeScript, React Native, and Expo CLI.",
+    "descriptionHtml": "<p>This project was part of the Summer Code Fest (inspired by the 'Summer Game Fest' - again!) and aimed to practice the basics of TypeScript, React Native, and Expo CLI.</p>",
+    "slug": "SummerCodeFest-PlantYourLife",
+    "techstack": [
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "React Native",
+        "Expo CLI"
+    ],
+    "links": [
+        {
+            "title": "@SummerCodeFest-PlantYourLife",
+            "icon": "GitHub",
+            "url": "https://github.com/JuditKaramazov/SummerCodeFest-PlantYourLife"
+        },
+        {
+            "title": "React Native Docs",
+            "icon": "Compass",
+            "url": "https://reactnative.dev/docs/getting-started"
+        }
+    ],
+    "images": [
+        {
+            "src": "/images/SummerCodeFest-PlantYourLife-01.png",
+            "width": 2880,
+            "height": 1600,
+            "format": "png"
+        },
+        {
+            "src": "/images/SummerCodeFest-PlantYourLife-02.png",
+            "width": 2880,
+            "height": 1600,
+            "format": "png"
+        },
+        {
+            "src": "/images/SummerCodeFest-PlantYourLife-03.png",
+            "width": 2880,
+            "height": 1600,
+            "format": "png"
+        }
+    ]
+}
