@@ -4,10 +4,11 @@
 <h1 align="center">
   Karamazfolio, v.1.0
 </h1>
-<p align="center">
+<div align="center">
   <a href="https://codeclimate.com/github/JuditKaramazov/JuditKaramazfolio/maintainability"><img src="https://api.codeclimate.com/v1/badges/5fc37bddddf76f58ffab/maintainability" /></a>
   <a href="https://codeclimate.com/github/JuditKaramazov/JuditKaramazfolio/test_coverage"><img src="https://api.codeclimate.com/v1/badges/5fc37bddddf76f58ffab/test_coverage" /></a>
-</p>
+  <a href="https://github.com/JuditKaramazov/JuditKaramazfolio/actions/workflows/ci.yml"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/actions/workflows/ci.yml/badge.svg" /></a>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5" alt="HTML" title="HTML" />
   <img src="https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3" alt="CSS" title="CSS" />
@@ -182,13 +183,18 @@ There's no way we can't know the many times we will use that specific command or
 As stated before, one of this portfolio's main goals gravitates around the idea of making it `scalable`, `maintainable`, and `better` - both for you as visitors and for me as the strange woman trying to figure out how to code something capable of representing my own standards, preferences, and wishes without making my computer explode in the process.
 With this idea in mind, and due to my curious nature, some of the future updates that I'm planning consist of:
  
->     - [ ] Implementation of languages (ES, FR).
+>     - [ ] Implementation of languages (*ES, FR*).
 >     - [ ] Dynamic availability and location.
 >     - [x] Testing integration (Jest, react-testing-library).
 >     - [ ] New sections.
 >     - [x] Building a CI/CD pipeline.
 >     - [ ] Calendly improvements.
 >     - [ ] Techstack filters.
+>     - [ ] Extension of the site: *karamaBlog*.
+
+> *Note: The "ES, FR" checkbox represents the future addition of the Spanish and French versions, respectively. The language implementation gravitates around i18n, and even though the Spanish translations have priority, I will start working on the French version as soon as I make sure that the components and the texts are solid enough in terms of quality.*
+
+> *Future-future plans: "karamaBlog" is an extension of the brand used in this portfolio. It will maintain the same aesthetics, identity, and general vibe, ensuring a cohesive and familiar user experience - and allowing me to explore new technologies, too. Stay tuned!*
 
 Please bear in mind that I plan to keep this repository up to date by actively creating new issues, incorporating sections, and working on any technological improvements and changes that may affect its proper functioning. Also, remember that this list is not exhaustive, and I'll continue adding more `checkboxes` to it as I identify new opportunities for improvement. I do value your feedback, and I'm highly responsive to suggestions and ideas that may enhance our experience on this platform, so do not hesitate to share your thoughts with me!
 We're all learning here, after all - and I'm genuinely excited to share the journey of this project's growth and evolution with you.
@@ -220,5 +226,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ---
 
 <h1 align="center">
-  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Cactus visual asset">
+  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original logo asset">
 </h1>
