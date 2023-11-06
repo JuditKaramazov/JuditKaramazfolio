@@ -1,3 +1,33 @@
+- title: ChromatOS
+  slug: Codetopia-ChromatOS
+  description: |
+    Although this tendenceny of including my repositories into imaginary gaming/dev events has become one of this GitHub account's main habits, this time (and due to some variations regarding my purposes and goals), ChromatOS works as part of this fall's Codetopia, inspired by Africa's first annual destination Indie Games & Immersive Arts festival and conference [Playtopia](https://playtopiafestival.co.za/about/). Initially aiming at practicing the basics I couldn't explore during my formation, I must admit that I am still learning (of course!), but also exploring the many technologies, languages, frameworks and tools fitting my needs and (generally deceiving) ideas better.
+    
+    In this case, and since my life changed quite a bit these last months, I recently discussed with my roommate how much Apple restricts customization of system elements like folder colors for consistency, coherency and security. After having a look at the devices that we have at home, it's undeniable that customizing icons and folders in macOS may be more accessible compared to iPadOS as macOS allows more flexibility for system customization and integration with custom extensions or code. iPadOS, on the other hand, is more locked down and restricts extensive customization, especially when it comes to system-level changes.
+
+    The conclusion, of course, was a mutual "that's lame" moment, but even though these restrictions are a (sad) reality we can't possibly overcome, talking about how great it would be to allow users for this extra customization is an idea that I couldn't get out of my mind. Why couldn't I? Because as it happens to the best of us, my brain strictly follows the patterns and logic processes that allow me to keep some order up there, just like it usually happens when organizing our notes with colors. Colors? Yes, colors, and here's a little explanation of their importance and benefits:
+    
+    1. Colors serve as visual cues that help users quickly identify and categorize items. When applied to folders, they make it easier to distinguish between different types of content or projects at a glance.
+    2. Colors can trigger memory associations. When users assign specific colors to folders, they can establish a color-coding system that aids in remembering the contents or significance of each folder. For example, red folders might represent urgent or high-priority tasks, while blue folders could signify personal (or just Apple-related) projects.
+    3. A well-organized visual system reduces cognitive load. Users don't need to remember folder names or dig through numerous directories. Instead, they can rely on the visual cues provided by colors.
+    4. Beyond the practical benefits, color customization adds an aesthetic dimension to literally everything - and the macOS experience is no exception.
+    5. MacBooks are cool - but they could be cool and colorful.
+
+    Considering this, and due to this sudden urge of allowing other individuals (my roommate, more specifically) to make their desktop and Finder environment more visually pleasing, I decided to create a Swift Apple Finder extension empowering users to personalize their macOS experience by easily changing folder colors.
+  techstack:
+    - Swift
+    - Xcode
+    - Storybroad
+
+  links:
+    - title: '@Codetopia-ChromatOS'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Codetopia-ChromatOS'
+
+    - title: The Swift Programming Language Book
+      icon: Compass
+      url: 'https://docs.swift.org/swift-book/documentation/the-swift-programming-language'
+
 - title: PlantYourLife - Summer Code Fest
   slug: SummerCodeFest-PlantYourLife
   description: |
