@@ -1,3 +1,36 @@
+- title: noctOS
+  slug: Codetopia-noctOS
+  description: |
+    Do you remember Grand Theft Auto: San Andreas and its infamous "here we go again" meme? Well, I must admit it's starting to feel somehow similar to that emblematic moment, but now that I (hopefully) have your attention, and just like it recently happened with my little [ChromatOS](https://github.com/JuditKaramazov/Codetopia-ChromatOS), today we're introducing noctOS. As it previously happened with its big brother, today's project works as part of this fall's Codetopia, inspired by Africa’s first annual destination Indie Games & Immersive Arts festival and conference [Playtopia](https://playtopiafestival.co.za/about/). "Why so many 'Codetopias', and 'Summer Code Fests', and some other bunch of strange labels, Judit?" First of all, it truly helps me organize my ideas and keep track of my progress; and it's an indirect way of supporting events related to spheres that I truly enjoy, too. Finally, this is nothing more than an excuse to let you know that all these projects prove that I am still learning and practicing the basics I couldn't explore during my formation - as well as getting to know better different technologies, languages, frameworks and tools allowing me to solve my every day's mundanities.
+    
+    Not long ago, we discussed how much Apple restricts the customization of system elements like folder colors for consistency, coherency, and security. This strong, perfectly-solid brand identity has been at the core of Apple’s success, and with it, the emblematic half-eaten-fruit managed to win new enthusiasts while solidifying the relationship with existing ones. Innovation, quality customer service, captivating marketing campaigns that resonate with its audience... Marketing has changed because the world has changed, and while many people in this industry have become overwhelmed and paralyzed by the blizzard of technology that's literally upon us, entrepreneurs and engineers have been able to forge new businesses and disrupt, or create, markets. "Es el mercado, amigo."
+    
+    Although we all have to admit that, at a meta level, each of these businesses - Apple included - demonstrated an absurd degree of coherence between their multiple departments (perfectly aligned, like a living organism), it's still lame to exist within some boundaries when, paradoxically, choice and control have been the preferred labels of most of these companies finding customization not so representative of concepts such as "value" and "integrity". What do we truly value as individuals, in the end? Quite a difficult question, this one. In my case, and after reflecting on the ideas that I explored in my last (and colorful) project of the kind, I would say that customization and (at least the fiction of) freedom of choice are indeed essential, and I do appreciate having a minimum control over how things work - and when. Why would that be so crucial, especially in the digital era? Here's a short explanation of it:
+
+    1. In a world of predefined defaults, the power of choice and freedom is unparalleled - and there's no way we refuse to mold our digital spaces in order to mirror the complexities of our evolving identities.
+    2. Much like colors in the physical realm, the colors of our digital environment are personal expressions unique to us. Imagine launching your creative apps under an inspiring theme or your productivity tools under a focused ambiance. It's not just about organizing; it's about creating an emotional connection with your digital space.
+    3. In an era where the expression of identity remains both blurred and resoundingly powerful, and now that algorithms often curate our experiences, customization becomes a tool for reclaiming control and asserting individuality.
+    4. No matter how much the distinction between analog and digital identities is diminishing, the concept of "self" is paramount, and our devices should adapt to our preferences, not the other way around (not even your Apple device is excluded from this list, dear stranger).
+    5. As stated in ChromatOS, MacBooks are cool - but they could be cool, colorful, and more customizable.
+
+    Considering this, and due to this never-ending rapture pushing me to allow other individuals (including myself, this time) to make their devices into digital sanctuaries, I decided to create a Swift application empowering users to personalize their macOS experience by easily setting a light or dark mode theme for their chosen applications.
+
+    The ability to switch themes and colors can still become a reflection of the dynamic nature of the self, can't it?
+  techstack:
+    - Swift
+    - Xcode
+    - Storybroad
+    - Ruby
+
+  links:
+    - title: '@Codetopia-noctOS'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Codetopia-noctOS'
+
+    - title: Laws of UX
+      icon: Compass
+      url: 'https://lawsofux.com/'
+
 - title: ChromatOS
   slug: Codetopia-ChromatOS
   description: |
