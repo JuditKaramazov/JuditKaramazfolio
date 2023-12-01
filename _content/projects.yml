@@ -1,3 +1,38 @@
+- title: PraiseTheShift
+  slug: Codetopia-PraiseTheShift
+  description: |
+    Recently, I finished working on two applications I would have never expected to exist: [ChromatOS](https://github.com/JuditKaramazov/Codetopia-ChromatOS) and [noctOS](https://github.com/JuditKaramazov/Codetopia-noctOS), quite a peculiar part of a general project called Codetopia, inspired by Africa’s first annual destination Indie Games & Immersive Arts festival and conference: [Playtopia](https://playtopiafestival.co.za/about/). In all honesty, the finding that these humble events are consistently taking place around the world doesn't contradict the idea of wanting to mention and endorse them from time to time, no matter if the scope is limited when the mentions only exist through little projects helping me learn the basics I couldn't explore during my formation. "But does the infamous Summer... 'Code' Fest deserve a place here too, then, Judit?" Ah, yes... well, as you've probably noticed by now, I am not the most creative person ever - but I am still trying! It has to count for something, right?
+
+    Speaking of which: none of you would possibly imagine the many times that I actively tried to enjoy Dark Souls before actually achieving such goal. That's correct: it's not only that I mention games all the time, but I analyze, listen, and learn about them more than I'd want to admit. They're always on my mind, as they shapped an irreplacable aspect of my reality and way of decoding it; they play a huge role while confronting my daily mundanities, as they're my favourite soundtrack and best mental companions. They taught me a bunch of things about success, solitude, history, companionship, music, nodding a lot while being a terrible cop, loss, courage, or how to cope with (and, eventually, defeat) depression. "This story again, eh?" Now, let's be realistic: how can a game famous for its depressing setting and brutal difficulty help people with mental illness? That's indeed a great question.
+
+    Independently of the answer(s) (in this case, they are as many as they are varied), what's necessary to highlight here is that the real struggle of the gameplay itself acknowledges the struggles many people are experiencing in life while also encouraging perseverance. I would not dare saying Dark Souls is a celebration of life since the setting and themes make it feel it is not; Lordran, as well as its many variations and twists throughout the franchise, is a place of callous indifference as far as its inhabitants are concerned. However, what keeps people engaged with it and the overall Soulsborne atmosphere is that the threat of meaninglessness comes hand-in-hand with the opportunity for transcendence.
+
+    Remarkably, the game succeeds because it represents a very intimate learning process where every death is a lesson. Dark Souls understands what it is to be the Chosen Undead, a less-than-no-one surviving and thriving in a world indifferent to your presence. The game, the mechanics, and the lore itself give meaning to the idea of having to make a decision each time you feel you are in a bleak world that's ending. "You get up and you have a choice. Do I try today or do I just duct tape tin foil over my windows and stay in bed all day? Waking up in the morning can be like waking up next to a bonfire after you've died in the game. You have to decide whether you go on or not."
+
+    In essence, Dark Souls can indeed be seen as a celebration of life through its emphasis on:
+
+    1. Resilience and perseverance. Just like in life, the setbacks are inevitable, but the ability to "keep on keeping on" is crucial - and controlling a fantasy character physically going through what you feel like you're going through mentally can be a great comfort.
+    2. Learning and growth ultimately leading to a deep sense of accomplishment. Overcoming adversity in the game requires adapting strategies, honing skills, and gaining knowledge, but this is the key that allows it to emphasize the importance of learning from mistakes. The feeling of conquering seemingly insurmountable odds reinforces the idea that life's greatest achievements often come from tackling difficult tasks and emerging victorious, no matter if the task itself is something as "apparently simple" as getting out of bed.
+    3. Community and co-operation. As the game's challenging nature serves as a metaphor for life's struggles, and although Dark Souls can be a solitary experience, the game also features elements of community and (jolly) co-operation: players can leave (sometimes) helpful messages for others, summon help in difficult areas, witness other people's spirits resting nearby a bonfire and keeping them accompanied, or engage in player-vs-player combat in order to test their progress.
+
+    As for this last part, how wouldn't highlighting the importance of support networks and collaboration be a celebration of life in itself, I wonder? And now that we just mentioned this crucial factor: who other than our dear Solaire of Astora embodies this theme in such a graceful way?
+    
+    There's no doubt: without the stigma of failure, both players and individuals-still-liberated-from-Dark-Souls'-influence are free to adapt and test new methods rather than remain trapped in the same mindset - which is clearly not my case now that I'm bringing you [PraiseTheShift](https://github.com/JuditKaramazov/Codetopia-PraiseTheShift), a humble tool allowing you to switch between dark and light mode under Solaire's blessing and grossly incandescent approval.
+  techstack:
+    - Swift
+    - Xcode
+    - Storybroad
+    - Objective-C
+  
+  links:
+    - title: '@Codetopia-PraiseTheShift'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/Codetopia-PraiseTheShift'
+
+    - title: The Symbolic Roots of Dark Souls
+      icon: Compass
+      url: 'https://medium.com/@RoseOfNobility/smash-the-worlds-shell-the-symbolic-roots-of-the-dark-souls-trilogy-bf100b253273'
+
 - title: noctOS
   slug: Codetopia-noctOS
   description: |
@@ -29,7 +64,7 @@
 
     - title: Laws of UX
       icon: Compass
-      url: 'https://lawsofux.com/'
+      url: 'https://lawsofux.com'
 
 - title: ChromatOS
   slug: Codetopia-ChromatOS
