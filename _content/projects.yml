@@ -1,3 +1,31 @@
+- title: EVASCode
+  slug: TCA-EVASCode
+  description: |
+    "Why do you pilot an EVA?"
+
+    "Oh, wait. Wait... What happened?! Is Codetopia finished already, Judit?" Not in our hearts, that's for sure, but now that December has become an unavoidable reality, it seemed appropriate to collect some Christmas decorations (from last year*, and from the one before, and...), a nice (and imaginary) suit, and then start fantasizing with the idea of delivering The Code Awards to the unlucky ones having to deal with my nonsensical experiments day after day. As you surely know, and as it became a must in the video game sector, [The Game Awards](https://thegameawards.com/) are taking place in some hours, with a more or less satisfactory amount of decent nominees considering the nature of the event itself. However, although I've been using these events as an excuse that allowed me to keep on learning and exploring new development areas, technologies, and various tools, this time we are not discussing video games nor questionable events aiming to become the new Oscars (note to my future self: I still hate you, Geoff, but you can conquer my heart again by releasing a noice trailer of Elden Ring's DLC).
+
+    Quite a long while ago, right when the illusion of self was shattered, I ceased to be - and yet I embraced two great animes without taking into account my own timing nor the implications of my acts during such a delicate state: Evangelion came first, and then Berserk arrived to insist on the fact that, independently of how things might seem at the moment and just like Senua would say, "the hardest battles are fought in the mind, not with the sword". Similarly, after several missed occasions when I managed to convince myself about Evangelion showcasing gigantic robots and that's all about it, my best friend reminded me of the existence of his favorite anime. For once, I followed his advice without finding myself any excuse. Which one would I create when I had no mental energy left, anyway? Robots not being to my liking? Despair, the lack of purpose, the absence of any answer when asked "Why do you pilot an EVA?"
+
+    Surprisingly (or not so), he was terribly right: there were indeed mechas, but the entirety of Evangelion had nothing to do with robots slapping their faces without any context, purpose, or reasoning behind their actions and existence. Furthermore, one of the reasons why Evangelion is so profound is that it functions on no fewer than four distinct allegorical levels: it can be enjoyed at face value as an expertly realized sci-fi action adventure, but it is also a dystopian satire of the genre. And a coming-of-age parable. And a treatise on confronting loneliness and uncertainty in the adult world. And - alright, alright. We all know how vast Evangelion's symbolism is, and it would be quite pretentious if I treated my README.md file as some sort of academic paper discussing the presence (or absence) of Lacan, Freud, Hegel, and so many other thinkers in Evangelion's main themes and imagery. Imagine that a bond could be created after such a proof of intimacy. Imagine the dimensions of the following discontents.
+
+    Let's remain here, keeping a safe distance. Is it the world we wished for? "You can't bridge the gap between your own truth and the reality of others", isn't it? "A place with no AT Fields, where individual forms do not exist. An ambiguous world where you cannot tell where you end and others begin. A world where you exist everywhere, and yet you're nowhere, all at once." 
+    
+    Now, why do you pilot an EVA?
+  techstack:
+    - VSCode
+    - JSON files
+    - Cafelito
+  
+  links:
+    - title: '@TCA-EVASCode'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/TCA-EVASCode'
+
+    - title: EVASCode in the Marketplace
+      icon: Compass
+      url: 'https://marketplace.visualstudio.com/items?itemName=tecnomazov.evas-code'
+
 - title: PraiseTheShift
   slug: Codetopia-PraiseTheShift
   description: |
