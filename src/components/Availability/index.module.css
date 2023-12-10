@@ -14,7 +14,7 @@
 .available {
   position: fixed;
   bottom: var(--spacer);
-  left: 50%;
+  right: 50%;
   background: var(--body-background-color);
   box-shadow: var(--box-shadow);
   color: var(--text-color);
