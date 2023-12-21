@@ -1,3 +1,34 @@
+- title: clamp(culate);
+  slug: TCA-clampculate
+  description: |
+    "The E3 is dead, long live the E3."
+    
+    "Oh, wait. Wait, Judit... this is unacceptable! Aren't you embracing The... 'Code' Awards now? What happened?” Ah, yes... [The Game Awards](https://thegameawards.com/). Let's better not discuss the event itself nor how [2023's disastrous layoffs](https://www.polygon.com/23964448/video-game-industry-layoffs-crisis-2023) compare to other years now that the industry insists on incentivizing short-term profit over long-term stability and the value of their workers. Since The Code Awards is supposed to be a moment of celebration, and considering that this year, we've been gifted with an insane list of amazing video games (it truly has been a banger), we better stay focused on pretending that even this tiny space that I built in order to keep on learning and exploring new ideas is as safe as a bonfire could be in Dark Souls. Did someone hear something about Elden Ring's new DLC, by the...?
+    
+    Ahem. Now that we started discussing video games again, I must admit that the current situation is worrying, to say the least. As stated before, a constant tolling bell of industry layoffs defined 2023, with job losses for thousands being in stark contrast to a stellar release schedule and record-beating acquisition numbers. Independently of the reasons behind this fact, which may substantially vary depending on the company, sector, country, economic structures, etc., it seems we go into 2024 with many questions unresolved – and with the grace of a pandemic-backlogged release schedule all used up. What's even more concerning is to witness how easily companies can exploit passion for profit, though, as developing games "becomes a part of [people's] identities".
+    
+    Although the previous quote hints at a culture of dedication to the craft of making video games, and while this culture may be particularly strong in the gaming industry, similar cultures of passion and dedication are present in various segments of the broader development field, fostering a sense of community and shared commitment. Money? Passion? A clear abyss making them two irreconciliable? I am not to discuss the many implications and reasons behind this specific idea, but what's clear is that layoffs became the tech industry's new normal. Perhaps we all should indeed detach our identity from our job; however, when these two aspects are so closely related and interconnected due to our preferences, likings and interests, the frontier separating them becomes blurry enough for several fears to become crippling.
+    
+    Not so long ago, I found myself discussing technology with some friends of mine, as if these two realities that should stay away from each other wanted to make the division line thiner than ever. After agreeing with the idea of CSS being a foundational language for web development, I decided to revise some concepts that, eventually, led to an [interesting article](https://ishadeed.com/article/css-min-max-clamp/) vertebrated around CSS Comparison Functions and some insightful ideas about present and future design.
+    
+    In such a flourishing industry, how will things change regarding our way of designing in the near future? It is indeed exciting to work on web projects that require a great amount of flexibility in their components, but how can we facilitate the process to make it as fluid and coherent as the illustration's second example? Can we all participate in this already-mentioned process? 
+    
+    I am not so sure about the answer (not when it comes to myself, at least) - and still I opted to create a little tool making the clamp() formula more accessible for people who might find it useful. Why? Because our industry is hostile enough already, and sadly (or not?), we all want to believe in the warm residue of a community, don't we?
+  techstack:
+    - Astro
+    - Svelte
+    - CSS
+    - JavaScript
+  
+  links:
+    - title: '@TCA-clampculate'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/TCA-clampculate'
+
+    - title: clamp(culate);
+      icon: Compass
+      url: 'https://clampculate.vercel.app'
+
 - title: EVASCode
   slug: TCA-EVASCode
   description: |
