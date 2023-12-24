@@ -1,3 +1,33 @@
+- title: Memory tastes like iron
+  slug: TCA-rogueMazov
+  description: |
+    "Last Christmas I gave you my heart, but the very last..."
+    
+    "Eh, Judit... Judit! Is this even serious? You promised you wouldn't dare singing this song. You told yourself multiple times that this empty way of celebrating capitalism was forbidden, and...!" Well, well. What do you want me to say, guys? I assume I am getting old and emotional - especially now that we threw the E3 away, just like we did with some Christmas' hearts. "But weren't we talking about 'The Code Awards', Judit?" Oh, this seasonal event based on [The Game Awards](https://thegameawards.com), you mean? Of course we were, but now that Geoff Keighley's [Summer Games Fest](https://www.summergamefest.com) seems poised to hold the June industry news slot unopposed, I do not truly know if we should celebrate or cry our eyes out together. Some new information about Hollow Knight Silksong's state could easily change my mind regarding this matter, Geoff...
+
+    Because that's the thing, right? We do care about new announcements and blockbusters, but we feel slightly uncomfortable whenever a team takes more space on stage than what the "acceptable" amount of time would be, at least compared to the number of new trailers and "World Premieres". "Wrap it up", as Geoff himself would say - or accept others to say. Nevertheless, and quoting [Eurogamer.net](https://www.eurogamer.net/the-game-awards-will-never-represent-our-industry-in-the-way-it-needs-so-what-next)'s article on the matter, the only thing that's left to say is that "the Game Awards are not what many video game developers want, which as they've made clear over the past few , is a platform, an occasion for shared appreciation, and above all representation of game developers as they truly are - often, as we've discovered: dedicated, overworked, political and at times radical artists and engineers. Inspiring individuals who represent the bright, bold, and inclusive future. But there's also, crucially, little reason to believe The Game Awards will change."
+
+    Will we, though? If you want my humble opinion, we did change, no matter if certain aspects are still unaltered or not portraying the industry's reality as they should. Perhaps we just didn't change enough to embrace and defend such reality as it truly is now that the industry is reaching a more mature stage.
+    
+    "Maturity", what a concept. Now that I can consider myself a mature and serene adult (or so I hope), I find it funny to recall the days when I found myself staring to this old TV screen that my brother was using to play The Legend of Zelda: Ocarina of Time. Independently of the immense progress this industry has witnessed in the last decades, the truth is that even today I find it soothing to go back to those games many people can't even stand anymore. Generational graphic limits, an overwhelming simplicity, not that much of character development, no online features... that's right. However, if we can afford to accept today's limitations, it would be interesting to understand yesterday's ones - and embrace what it meant to demolish some of those obstacles as well. Because we did overcame quite a lot of them, am I right?
+    
+    We all did. Not so long ago, and while I was still going through one of my formations, I was terrified when confronting the idea of having to go through a JavaScript technical test. These days, it doesn't look as much of a hassle, but the fear paralyzed so fiercely while picturing the many words my mentor could use to express that I didn't pass (spoiler: I did), that nothing seemed enough for me to stop practicing and panicking. Now, it's clear that I'd simply check the documentation, practice, practice, practice... and that's all. But that's today's perspective; unlike today, yesterday I was indeed scared, smol, fragile, and unable to see all the tools I had at my disposal. I was someone who studied humanities during her entire life, after all. "Not good enough for this sector".
+    
+    In the end, however, and as funny and twisted as it might sound, it was all about words - just like [Memory tastes like iron](https://memorytasteslikeiron.vercel.app) is, too.
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+  
+  links:
+    - title: '@TCA-rogueMazov'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/TCA-rogueMazov'
+
+    - title: Memory Tastes Like Iron
+      icon: Compass
+      url: 'https://memorytasteslikeiron.vercel.app'
+
 - title: clamp(culate);
   slug: TCA-clampculate
   description: |
