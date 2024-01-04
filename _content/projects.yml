@@ -1,3 +1,45 @@
+- title: karamaDots
+  slug: ethC-dotfiles
+  description: |
+    Recently, we farewelled some of the latest Awards we created before Christmas (such as [EVASCode](https://github.com/JuditKaramazov/TCA-EVASCode), [clampculate](https://github.com/JuditKaramazov/TCA-clampculate), and [rogueMazov](https://github.com/JuditKaramazov/TCA-rogueMazov)), and now it's time for us to introduce a new seasonal event inspired by the [Ethical Games Conference](http://ethicalgamesconference.org), a two-day, single-track online conference aiming to bring together game academics to advance the debate on ethical design, development, and live operation of digital games with the long-term goal of providing concrete recommendations to the game industry and protecting players more efficiently with evidence-based guidelines. Speaking of which: did you know that **dotfiles** are both ethical and practical? No?
+    
+    Let's start with a brief introduction: dotfiles are configuration files on Unix-like systems that are typically hidden and begin with a dot (e.g., .zshrc, .bash_profile). These files are used to customize and configure various aspects of your system, applications, and command-line environment. Simple, right?
+
+    But... Why dotfiles?
+
+    That's actually a great question. Long story short, managing dotfiles provides several benefits:
+    
+    1. **Customization**: Dotfiles allow you to tailor your development environment to suit your preferences. This includes configuring shell settings, defining aliases, and setting up your preferred text editor.
+    2. **Portability**: Storing your configuration in dotfiles makes it easier to replicate your development environment across different machines. By version-controlling them, you can quickly set up your environment on a new system.
+    3. **Consistency**: Dotfiles help maintain a consistent development environment across different machines. This is particularly useful when working on multiple systems or collaborating with others.
+    4. **Productivity**: Having a well-organized set of dotfiles can enhance your productivity by automating repetitive tasks and providing shortcuts for common operations.
+
+    In the realm of dotfiles, custom scripts play a crucial role in automating tasks, enhancing functionality, and streamlining the configuration process. For further information about what you'll find here:
+
+    - **colors.sh**
+      - Prints all available colors with their values in the Terminal.
+
+    - **tor.sh**
+      - Starts Tor and switches the system-wide proxy settings in macOS.
+
+    - **updaterepos.sh**
+      - Recursively updates all git repositories within the given folder.
+
+    - **update-everything.sh**
+      - Updates macOS, Homebrew, Node.js, npm, Ruby, ClamAV, and refreshes GPG keys all in one command.
+  techstack:
+    - Shell
+    - CSS
+  
+  links:
+    - title: '@ethC-dotfiles'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/ethC-dotfiles'
+
+    - title: Dotfiles Are Meant to Be Forked
+      icon: Compass
+      url: 'https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked'
+
 - title: Memory tastes like iron
   slug: TCA-rogueMazov
   description: |
