@@ -1,3 +1,51 @@
+- title: karamaBlog
+  slug: karamaBlog
+  description: |
+    There was a time when I wanted to be part of the university's maelstrom as a professor. That image is somehow blurry now that I can't even remember what literature tasted like or how its shapes looked to my eyes. There was a moment when I used to write, too - a distant one, just as many others. These days, the languages I speak the most are halfway through what humanities told me and what those devices that always fascinated me appeared to speak. Not a natural language, not an inherited one, and yet an efficient tool capable of translating our commands into a concise, clear, and precise syntax. What a surreptitious stream those opaque boxes, keys, and wires seemed to keep inside, just as if they contained an expansion of different universes away from our understanding.
+
+    After all this time, there are moments when I still fantasize about the idea of making all these wishes converge into the same point. That's terrifying, somehow: how could we combine such antagonistic realities, constantly fighting and questioning each other? For that, I have no answer. I still have a voice, though, and several different tones and tongues converge into it.
+
+    If you'd want to know how they managed to do so, bear in mind that I based this blog on the following sections:
+
+    1. **Articles**. It happens to host... articles.
+    2. **Links**. Not-so-long exerpts that I happened to consider brain food, with only few personal thoughts on the matter.
+    3. **Photos**. These specific photos and image assets are plain ol' copyright - unless I indicate a different author.
+    4. **Utils**. Downloadable goodies all around.
+    5. **/tecnoMazov**. It displays a list detailing my setup (office & nomad), gear, software and configs as a developer.
+
+    As for its key features, here are some of them:
+
+    1. **Changelog rendering**.
+    2. **Day'n'Nite theme switcher**.
+    3. **EXIF metadata extraction**.
+    4. **JSON feed**.
+    5. **Global search**.
+    6. **Tags & Related Posts**.
+
+    This little creation that aims to provide me with the necessary tools to conciliate my many realities, also known as karamaBlog, is built as a statically exported site using Astro and TypeScript. Although the majority of components are either Astro components or native Web Components, there are some React ones loaded client-side, too. This combination offers the best of both worlds: the speed and efficiency of Astro for static site generation, the type safety and developer-friendly features of TypeScript, and the dynamic interactivity and reusable components provided by React. This synergy results in a performant, maintainable, and feature-rich web application, ensuring an optimal user experience that I know I will never achieve, but here we are, guys: still trying.
+
+    When it comes to the styles, they are based on a combination of basic global styles, component-specific ones, the incorporation of CSS modules, and other peculiarities I would have never achieved without Auregan Nedelec and her genuinely touching logos, illustrations and ideas.
+
+    Since [karamaBlog](https://karamablog.xyz) serves as an extension of the brand used in my recent works (as it happens with this exact same portfolio), I wanted to maintain similar aesthetics, patterns, and a general vibe, ensuring a cohesive and familiar user experience. At the same time, I also wanted to reproduce a sense of evolution beyond technical details and features. However, since this site aims at providing personal access to what’s supposed to be a solitary path, it felt more accurate (and even honest) to represent it as a single individual wandering an immense landscape empty of everything, encountering impossible obstacles, and yet overcoming them not because of their ability but due to a deeper, almost dark power.
+
+    Consider this place either a healing field, either a personal **Shadow of the Colossus**, dear Wander.
+  techstack:
+    - Astro
+    - CSS
+    - React
+    - TypeScript
+    - Shell
+    - YAML
+  
+  links:
+    - title: '@karamaBlog'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/karamaBlog'
+
+    - title: karamaBlog
+      icon: Compass
+      url: 'https://karamablog.xyz'
+
 - title: karamaDots
   slug: ethC-dotfiles
   description: |
