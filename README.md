@@ -24,6 +24,9 @@
 <p align="center">
   <a href="https://karamazfolio.vercel.app/">📍 Personal site</a>
 </p>
+<p align="center">
+  <a href="https://karamablog.xyz">☕ Blog</a>
+</p>
 
 ---
 
@@ -188,9 +191,8 @@ With this idea in mind, and due to my curious nature, some of the future updates
 >     - [x] Testing integration (Jest, react-testing-library).
 >     - [ ] New sections.
 >     - [x] Building a CI/CD pipeline.
->     - [ ] Calendly improvements.
 >     - [ ] Techstack filters.
->     - [ ] Extension of the site: *karamaBlog*.
+>     - [x] Extension of the site: *karamaBlog*.
 
 > *Note: The "ES, FR" checkbox represents the future addition of the Spanish and French versions, respectively. The language implementation gravitates around i18n, and even though the Spanish translations have priority, I will start working on the French version as soon as I make sure that the components and the texts are solid enough in terms of quality.*
 
