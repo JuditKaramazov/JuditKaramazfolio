@@ -22,7 +22,7 @@
   <a href="https:/github.com/JuditKaramazov">🐱 /JuditKaramazov</a>
 </p>
 <p align="center">
-  <a href="https://karamazfolio.vercel.app/">📍 Personal site</a>
+  <a href="https://www.karamazfolio.xyz">📍 Personal site</a>
 </p>
 <p align="center">
   <a href="https://karamablog.xyz">☕ Blog</a>
@@ -228,5 +228,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ---
 
 <h1 align="center">
-  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original logo asset">
+  <a href="https://www.karamazfolio.xyz"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original logo asset">
 </h1>
