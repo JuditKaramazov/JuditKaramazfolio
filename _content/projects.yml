@@ -1,3 +1,28 @@
+- title: Rising Up, a README.md book
+  slug: InsightsFromJuniorToFutureSeniors
+  description: |
+    “Once a teacher, always a teacher”. As someone who struggled to find proper material, documentation, books, or even valuable websites during her university years, I feel responsible for sharing with anyone interested in learning as many tools and platforms as possible. These days, learning has become not only a need but a reasonable reality; if you have access to an internet connection, you are good to go. It's not always so simple to find the materials appropriately accommodated to our personal way of learning, though. Diversity is key. While you will find more complete tutorials, videos, and courses out there, I thought it could be interesting to gather some of them in the same place.
+
+    The entire content of this repository is closely related to a hub in the form of a website, [pythoMazov](https://www.pythomazov.tech/). However, users can read the content of the book separately, as the main README.md file will redirect to each individual chapter. When it comes to the content itself, we can classify it as follows:
+
+    1. **Books**. A free collection of books regarding different scientific and technological areas: Programming languages, Data Science, Machine Learning, Software Architecture...
+    2. **Websites**. An organized array of online sites allowing learners to easily access the latest industry trends, search for cutting-edge tools, find high-quality (and free) assets, etc.
+    3. **Courses**.  Customized courses explaining the basics of Python, Git, GitHub, and more.
+    4. **Certificates**. A curated list of free, online, and certified courses, including different programming languages, Back-End, Front-End, Machine & Deep Learning, Data Analysis...
+    5. **Cheatsheets**. A concise set of notes user for quick reference, starting with a beginner-friendly set of Python sheets, and followed by essential Git commands.
+    6. **Your IDE & you**. Getting started with the concept of an "integrated development environment": guidelines, descriptions, and recommendations depending on the user's needs.
+    7. **Game development recommendations**. Dedicated to game development from the perspective of an indie developer, here you'll find some guidance, tips, and personal recommendations about audio and art tools, game engines, financing platforms, social media....
+
+    Let's keep education free, accessible, flexible, and relevant. Let's make it count.
+  techstack:
+    - MarkDown
+    - Time & Coffee
+  
+  links:
+    - title: '@Rising Up: Insights'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors'
+
 - title: karamaBlog
   slug: karamaBlog
   description: |
