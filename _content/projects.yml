@@ -1,17 +1,53 @@
+- title: pythoMazov
+  slug: pythoMazov
+  description: |
+    Prior to [pythoMazov](https://pythomazov.tech)'s release, I wrote a pseudo-book called ["Rising Up: Insights from a Junior to Future Seniors"](https://github.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors). Inevitably, the idea of a "cave" always crossed my mind whenever I thought of my creation, as it appeared to be a complex approach for certain profiles: this is, a main README.md file leading to many others, all of them carefully linked and connected like a delicate, mechanical clock movement.
+
+    That's why this full-stack application exists: to facilitate and grant access to the free educational resources that I gathered and crafted.
+    
+    Similarly to many portfolios and "link-in-bio" tools these days ([Linktree](https://linktr.ee/) was my biggest reference and inspiration), I decided to organize all my programming materials following the structure of a landing page with associated links - mostly unrelated to any social media, in this specific scenario. Although there is the opportunity for you to contact or support me, I genuinely loved the concept of having a tool helping me share "everything I am" in a simple way, making my content more discoverable, easier to manage, and more likely to convert.
+
+    In order to achieve that result, I structured the links as follows:
+
+    1. **Index**. The landing page, containing links divided into **"Starter Kit"** (the main learning materials offered on the website), **"Useful resources"** (a list of books, websites, and other utilities, like my personal setup), **"Stay tuned"** (reserved for my personal blog, where I write about technology, video games, and development), and a **"Contact & Support"** section.
+    2. **Courses**. It can be accessed through the index (**"Starter Kit"**), and it offers both my own courses and certificated ones.
+    3. **Cheatsheets**. A hub for my **Python and Git** cheat sheets. More content will be available soon.
+    4. **Challenges**. Accessed through the index (**"Learn by coding"**), these links do not redirect to my own material; instead, I gathered some of the most practical websites making learning challenging, engaging, and motivating.
+
+    Sharing legally and freely for better learning is my one and only goal, as the lack of universal access to effective educational resources remains a global problem.
+
+    Let's make it count.
+  techstack:
+    - Chakra UI
+    - Docker
+    - Python
+    - Railway.app
+    - Reflex
+    - Supabase
+  
+  links:
+    - title: '@pythoMazov'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/pythoMazov'
+
+    - title: pythoMazov
+      icon: Compass
+      url: 'https://pythomazov.tech'
+
 - title: Rising Up, a README.md book
   slug: InsightsFromJuniorToFutureSeniors
   description: |
-    “Once a teacher, always a teacher”. As someone who struggled to find proper material, documentation, books, or even valuable websites during her university years, I feel responsible for sharing with anyone interested in learning as many tools and platforms as possible. These days, learning has become not only a need but a reasonable reality; if you have access to an internet connection, you are good to go. It's not always so simple to find the materials appropriately accommodated to our personal way of learning, though. Diversity is key. While you will find more complete tutorials, videos, and courses out there, I thought it could be interesting to gather some of them in the same place.
+    “Once a teacher, always a teacher”. As someone who struggled to find proper material, documentation, books, or even valuable websites during her university years, I feel responsible for **sharing with anyone interested in learning as many tools and platforms as possible**. These days, learning has become not only a need but a reasonable reality; if you have access to an internet connection, you are good to go. It's not always so simple to find the materials appropriately accommodated to our personal way of learning, though. Diversity is key. While you will find more complete tutorials, videos, and courses out there, I thought it could be interesting to gather some of them in the same place.
 
     The entire content of this repository is closely related to a hub in the form of a website, [pythoMazov](https://www.pythomazov.tech/). However, users can read the content of the book separately, as the main README.md file will redirect to each individual chapter. When it comes to the content itself, we can classify it as follows:
 
     1. **Books**. A free collection of books regarding different scientific and technological areas: Programming languages, Data Science, Machine Learning, Software Architecture...
     2. **Websites**. An organized array of online sites allowing learners to easily access the latest industry trends, search for cutting-edge tools, find high-quality (and free) assets, etc.
-    3. **Courses**.  Customized courses explaining the basics of Python, Git, GitHub, and more.
+    3. **Courses**. Customized courses explaining the basics of Python, Git, GitHub, and more.
     4. **Certificates**. A curated list of free, online, and certified courses, including different programming languages, Back-End, Front-End, Machine & Deep Learning, Data Analysis...
     5. **Cheatsheets**. A concise set of notes user for quick reference, starting with a beginner-friendly set of Python sheets, and followed by essential Git commands.
     6. **Your IDE & you**. Getting started with the concept of an "integrated development environment": guidelines, descriptions, and recommendations depending on the user's needs.
-    7. **Game development recommendations**. Dedicated to game development from the perspective of an indie developer, here you'll find some guidance, tips, and personal recommendations about audio and art tools, game engines, financing platforms, social media....
+    7. **Game development recommendations**. Dedicated to game development from the perspective of an indie developer, here you'll find some guidance, tips, and personal recommendations about audio and art tools, game engines, financing platforms, social media...
 
     Let's keep education free, accessible, flexible, and relevant. Let's make it count.
   techstack:
