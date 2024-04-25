@@ -1,3 +1,35 @@
+- title: Take you there
+  slug: TakeYouThere
+  description: |
+    Maps have always been an interesting concept to me. Besides the ones we mentally create in our heads (this is, the basic orientation guidelines just so that we won't end up lost in our own city), the idea of a physical item revealing the very soul of the spaces we inhabit (or simply plan to visit) holds a mysterious, evocative power that not many other objects can elicit.
+
+    Undoubtedly, maps gained new connotations in recent times: without the "dragons" restriction, our societies deeply embraced the possibility of keeping such practical tools in our pockets, even if just in a virtual way. 
+
+    This idea inspired [Take you there](https://takeyouthere.vercel.app): an interactive map empowering users to set different, customized markers in order to immortalize the places they visited together. Was it just a trip? Perfect. A special event? A café you enjoyed? **Pin it** and **show a picture** symbolizing the importance behind that moment, then.
+    
+    Here are some of its main features:
+
+    1. **An interactive map** with several available themes.
+    2. **A menu button** triggering our Sidebar component.
+    3. **A sidebar** containing two main sections:
+    - **Locations**: This section displays **all the pins**, detailing the **city, country, distance/date, and author**. It's possible to **sort them by date or distance**.
+    - **Contributions**: This section showcases **the amount of pins added by each contributor**. It's possible to **sort** these contributions **by calculating the added markers and the total distance after summing all the additions per person**.
+
+    "Where" is quite a blurry concept, and if [Madonna](https://www.youtube.com/watch?v=79fzeNUqQbQ) didn't specify where that place was, I surely won't make it clear either!
+  techstack:
+    - Next.js
+    - React
+    - TypeScript
+  
+  links:
+    - title: '@TakeYouThere'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/TakeYouThere'
+
+    - title: Take you there
+      icon: Compass
+      url: 'https://takeyouthere.vercel.app'
+
 - title: pythoMazov
   slug: pythoMazov
   description: |
