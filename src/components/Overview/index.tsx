@@ -13,7 +13,7 @@ export default function Overview() {
         "Astro",
         "Next.js", 
         "Jest", 
-        "Café ☕️"
+        "Cafelito ☕️"
     ]
 
   return (
