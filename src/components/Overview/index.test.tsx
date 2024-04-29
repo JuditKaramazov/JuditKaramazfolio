@@ -9,7 +9,7 @@ describe('Overview', () => {
     const sectionTitle = screen.getByText('/overview')
     expect(sectionTitle).toBeInTheDocument()
     
-    const technologies = ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'React', 'Next.js', 'Jest', 'Cafelito ☕️']
+    const technologies = ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'Python', 'Swift', 'React', 'Astro', 'Next.js', 'Jest', 'Cafelito ☕️']
     technologies.forEach((tech) => {
       const techElement = screen.getByText(tech)
       expect(techElement).toBeInTheDocument()
