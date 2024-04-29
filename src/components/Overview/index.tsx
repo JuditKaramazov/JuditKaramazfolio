@@ -7,10 +7,13 @@ export default function Overview() {
         "SCSS", 
         "JavaScript", 
         "TypeScript", 
+        "Python",
+        "Swift",
         "React", 
+        "Astro",
         "Next.js", 
         "Jest", 
-        "Cafelito ☕️"
+        "Café ☕️"
     ]
 
   return (
