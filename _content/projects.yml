@@ -1,3 +1,41 @@
+- title: mergeOS
+  slug: mergeOS
+  description: |
+    These days, becoming better turned out to be a blurry concept - now, it's all about being inhumanly, incoherently, and impossibly efficient. The idea of performance management or the questions surrounding "why keeping score is so important" mean nothing, as our industry, similarly to the video games one, is obviously hit-driven: all that matters is an application, tool, or game blowing up, but no one tells you all the things you'll lose while walking through that valley.
+
+    In this context, these thoughts made me work on a tool I could privately use to improve my productivity - because nothing is enough. That's how [mergeOS](https://github.com/JuditKaramazov/mergeOS/releases/download/v1.0.0/mergeOS.zip), **a MacBook shortcut allowing users to easily preview, manage, and access their development responsibilities**, was born.
+
+    Needless to say, **accessibility** has always been one of my main goals, no matter if I was developing something for others or my own pleasure and entertainment. Considering this, I tried to simplify all the functionalities and authentication steps as much as possible for mergeOS, which resulted in the following requirements:
+
+    1. Download, unzip, and install the [latest release](https://github.com/JuditKaramazov/mergeOS/releases/download/v1.0.0/mergeOS.zip).
+    2. With the app open, go to **Authentication**.
+    3. Enter your **GitHub username**.
+    4. [Generate a GitHub access token](https://github.com/settings/tokens/new?scopes=repo) with **repo scope**.
+    5. Enter your token.
+
+    After that, and once you've accessed the **Settings...** option, you'll find the following sections:
+    
+    1. **Authentication**, allowing users to connect directly to their GitHub account.
+    2. **General**, where users can choose the **build information and labels displayed**, the **pull requests** they'd want to visualize, the **application's refreshing rate**, or the **"launch at login"** option.
+    3. **Shortcuts**, enabling users to **record their preferred shortcuts** for the **application's main functionalities**.
+    4. **Appearance**, where displaying a **counter near the icon** indicating the **assigned, created, and review-requested** pull requests becomes a reality. It is also possible to **customize the menu bar icon**: a PR image, GitHub's logo, an Octocat... you choose!
+    
+    Since I created this application **thinking of a tool I myself would want to use**, I tried to respect GitHub's icons, colors, and aesthetic decisions as much as possible, just so that I could feel **mergeOS** as an extension and not something merely external.
+  techstack:
+    - Swift
+    - Xcode
+    - Storyboard
+    - GitHub API
+  
+  links:
+    - title: '@mergeOS'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/mergeOS'
+
+    - title: mergeOS, v1.0.0
+      icon: Compass
+      url: 'https://github.com/JuditKaramazov/mergeOS/releases/download/v1.0.0/mergeOS.zip'
+
 - title: Take you there
   slug: TakeYouThere
   description: |
@@ -293,7 +331,7 @@
   techstack:
     - Swift
     - Xcode
-    - Storybroad
+    - Storyboard
     - Objective-C
   
   links:
@@ -326,7 +364,7 @@
   techstack:
     - Swift
     - Xcode
-    - Storybroad
+    - Storyboard
     - Ruby
 
   links:
@@ -357,7 +395,7 @@
   techstack:
     - Swift
     - Xcode
-    - Storybroad
+    - Storyboard
 
   links:
     - title: '@Codetopia-ChromatOS'
