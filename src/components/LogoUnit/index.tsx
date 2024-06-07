@@ -27,7 +27,7 @@ export default function LogoUnit({ small, hideLogo }: Props) {
           src="/karAvatar.png"
           alt="Main avatar, doodle style."
           className={styles.logo}
-          width={375}
+          width={300}
           height={100}
         />
       )}
