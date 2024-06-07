@@ -24,10 +24,10 @@ export default function LogoUnit({ small, hideLogo }: Props) {
     >
       {!hideLogo && (
         <Image
-          src="/karaLogo.png"
-          alt="Kara Logo"
+          src="/karAvatar.png"
+          alt="Main avatar, doodle style."
           className={styles.logo}
-          width={500}
+          width={400}
           height={100}
         />
       )}
