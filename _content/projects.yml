@@ -170,11 +170,7 @@
 - title: karamaBlog
   slug: karamaBlog
   description: |
-    There was a time when I wanted to be part of the university's maelstrom as a professor. That image is somehow blurry now that I can't even remember what literature tasted like or how its shapes looked to my eyes. There was a moment when I used to write, too - a distant one, just as many others. These days, the languages I speak the most are halfway through what humanities told me and what those devices that always fascinated me appeared to speak. Not a natural language, not an inherited one, and yet an efficient tool capable of translating our commands into a concise, clear, and precise syntax. What a surreptitious stream those opaque boxes, keys, and wires seemed to keep inside, just as if they contained an expansion of different universes away from our understanding.
-
-    After all this time, there are moments when I still fantasize about the idea of making all these wishes converge into the same point. That's terrifying, somehow: how could we combine such antagonistic realities, constantly fighting and questioning each other? For that, I have no answer. I still have a voice, though, and several different tones and tongues converge into it.
-
-    If you'd want to know how they managed to do so, bear in mind that I based this blog on the following sections:
+    I based this blog (my very personal one - finally!) on the following sections:
 
     1. **Articles**. It happens to host... articles.
     2. **Links**. Not-so-long exerpts that I happened to consider brain food, with only few personal thoughts on the matter.
@@ -191,13 +187,11 @@
     5. **Global search**.
     6. **Tags & Related Posts**.
 
-    This little creation that aims to provide me with the necessary tools to conciliate my many realities, also known as karamaBlog, is built as a statically exported site using Astro and TypeScript. Although the majority of components are either Astro components or native Web Components, there are some React ones loaded client-side, too. This combination offers the best of both worlds: the speed and efficiency of Astro for static site generation, the type safety and developer-friendly features of TypeScript, and the dynamic interactivity and reusable components provided by React. This synergy results in a performant, maintainable, and feature-rich web application, ensuring an optimal user experience that I know I will never achieve, but here we are, guys: still trying.
+    This little creation that aims to provide me with the necessary tools to conciliate my many realities, also known as karamaBlog, is built as a **statically exported site using Astro and TypeScript**. Although the majority of components are either Astro components or native Web Components, there are some React ones loaded client-side, too. This combination offers the best of both worlds: the speed and efficiency of Astro for static site generation, the type safety and developer-friendly features of TypeScript, and the dynamic interactivity and reusable components provided by React. This synergy results in a performant, maintainable, and feature-rich web application, ensuring an optimal user experience that I know I will never achieve, but here we are, guys: still trying.
 
     When it comes to the styles, they are based on a combination of basic global styles, component-specific ones, the incorporation of CSS modules, and other peculiarities I would have never achieved without Auregan Nedelec and her genuinely touching logos, illustrations and ideas.
 
     Since [karamaBlog](https://karamablog.xyz) serves as an extension of the brand used in my recent works (as it happens with this exact same portfolio), I wanted to maintain similar aesthetics, patterns, and a general vibe, ensuring a cohesive and familiar user experience. At the same time, I also wanted to reproduce a sense of evolution beyond technical details and features. However, since this site aims at providing personal access to what’s supposed to be a solitary path, it felt more accurate (and even honest) to represent it as a single individual wandering an immense landscape empty of everything, encountering impossible obstacles, and yet overcoming them not because of their ability but due to a deeper, almost dark power.
-
-    Consider this place either a healing field, either a personal **Shadow of the Colossus**, dear Wander.
   techstack:
     - Astro
     - CSS
@@ -218,11 +212,7 @@
 - title: karamaDots
   slug: ethC-dotfiles
   description: |
-    Recently, we farewelled some of the latest Awards we created before Christmas (such as [EVASCode](https://github.com/JuditKaramazov/TCA-EVASCode), [clampculate](https://github.com/JuditKaramazov/TCA-clampculate), and [rogueMazov](https://github.com/JuditKaramazov/TCA-rogueMazov)), and now it's time for us to introduce a new seasonal event inspired by the [Ethical Games Conference](http://ethicalgamesconference.org), a two-day, single-track online conference aiming to bring together game academics to advance the debate on ethical design, development, and live operation of digital games with the long-term goal of providing concrete recommendations to the game industry and protecting players more efficiently with evidence-based guidelines. Speaking of which: did you know that **dotfiles** are both ethical and practical? No?
-    
-    Let's start with a brief introduction: dotfiles are configuration files on Unix-like systems that are typically hidden and begin with a dot (e.g., .zshrc, .bash_profile). These files are used to customize and configure various aspects of your system, applications, and command-line environment. Simple, right?
-
-    But... Why dotfiles?
+    Huh... Why dotfiles?
 
     That's actually a great question. Long story short, managing dotfiles provides several benefits:
     
@@ -260,14 +250,6 @@
 - title: Memory tastes like iron
   slug: TCA-rogueMazov
   description: |
-    "Last Christmas I gave you my heart, but the very last..."
-    
-    "Eh, Judit... Judit! Is this even serious? You promised you wouldn't dare singing this song. You told yourself multiple times that this empty way of celebrating capitalism was forbidden, and...!" Well, well. What do you want me to say, guys? I assume I am getting old and emotional - especially now that we threw the E3 away, just like we did with some Christmas' hearts. "But weren't we talking about 'The Code Awards', Judit?" Oh, this seasonal event based on [The Game Awards](https://thegameawards.com), you mean? Of course we were, but now that Geoff Keighley's [Summer Games Fest](https://www.summergamefest.com) seems poised to hold the June industry news slot unopposed, I do not truly know if we should celebrate or cry our eyes out together. Some new information about Hollow Knight Silksong's state could easily change my mind regarding this matter, Geoff...
-
-    Because that's the thing, right? We do care about new announcements and blockbusters, but we feel slightly uncomfortable whenever a team takes more space on stage than what the "acceptable" amount of time would be, at least compared to the number of new trailers and "World Premieres". "Wrap it up", as Geoff himself would say - or accept others to say. Nevertheless, and quoting [Eurogamer.net](https://www.eurogamer.net/the-game-awards-will-never-represent-our-industry-in-the-way-it-needs-so-what-next)'s article on the matter, the only thing that's left to say is that "the Game Awards are not what many video game developers want, which as they've made clear over the past few , is a platform, an occasion for shared appreciation, and above all representation of game developers as they truly are - often, as we've discovered: dedicated, overworked, political and at times radical artists and engineers. Inspiring individuals who represent the bright, bold, and inclusive future. But there's also, crucially, little reason to believe The Game Awards will change."
-
-    Will we, though? If you want my humble opinion, we did change, no matter if certain aspects are still unaltered or not portraying the industry's reality as they should. Perhaps we just didn't change enough to embrace and defend such reality as it truly is now that the industry is reaching a more mature stage.
-    
     "Maturity", what a concept. Now that I can consider myself a mature and serene adult (or so I hope), I find it funny to recall the days when I found myself staring to this old TV screen that my brother was using to play The Legend of Zelda: Ocarina of Time. Independently of the immense progress this industry has witnessed in the last decades, the truth is that even today I find it soothing to go back to those games many people can't even stand anymore. Generational graphic limits, an overwhelming simplicity, not that much of character development, no online features... that's right. However, if we can afford to accept today's limitations, it would be interesting to understand yesterday's ones - and embrace what it meant to demolish some of those obstacles as well. Because we did overcame quite a lot of them, am I right?
     
     We all did. Not so long ago, and while I was still going through one of my formations, I was terrified when confronting the idea of having to go through a JavaScript technical test. These days, it doesn't look as much of a hassle, but the fear paralyzed so fiercely while picturing the many words my mentor could use to express that I didn't pass (spoiler: I did), that nothing seemed enough for me to stop practicing and panicking. Now, it's clear that I'd simply check the documentation, practice, practice, practice... and that's all. But that's today's perspective; unlike today, yesterday I was indeed scared, smol, fragile, and unable to see all the tools I had at my disposal. I was someone who studied humanities during her entire life, after all. "Not good enough for this sector".
@@ -290,19 +272,11 @@
 - title: clamp(culate);
   slug: TCA-clampculate
   description: |
-    "The E3 is dead, long live the E3."
-    
-    "Oh, wait. Wait, Judit... this is unacceptable! Aren't you embracing The... 'Code' Awards now? What happened?” Ah, yes... [The Game Awards](https://thegameawards.com/). Let's better not discuss the event itself nor how [2023's disastrous layoffs](https://www.polygon.com/23964448/video-game-industry-layoffs-crisis-2023) compare to other years now that the industry insists on incentivizing short-term profit over long-term stability and the value of their workers. Since The Code Awards is supposed to be a moment of celebration, and considering that this year, we've been gifted with an insane list of amazing video games (it truly has been a banger), we better stay focused on pretending that even this tiny space that I built in order to keep on learning and exploring new ideas is as safe as a bonfire could be in Dark Souls. Did someone hear something about Elden Ring's new DLC, by the...?
-    
-    Ahem. Now that we started discussing video games again, I must admit that the current situation is worrying, to say the least. As stated before, a constant tolling bell of industry layoffs defined 2023, with job losses for thousands being in stark contrast to a stellar release schedule and record-beating acquisition numbers. Independently of the reasons behind this fact, which may substantially vary depending on the company, sector, country, economic structures, etc., it seems we go into 2024 with many questions unresolved – and with the grace of a pandemic-backlogged release schedule all used up. What's even more concerning is to witness how easily companies can exploit passion for profit, though, as developing games "becomes a part of [people's] identities".
-    
-    Although the previous quote hints at a culture of dedication to the craft of making video games, and while this culture may be particularly strong in the gaming industry, similar cultures of passion and dedication are present in various segments of the broader development field, fostering a sense of community and shared commitment. Money? Passion? A clear abyss making them two irreconciliable? I am not to discuss the many implications and reasons behind this specific idea, but what's clear is that layoffs became the tech industry's new normal. Perhaps we all should indeed detach our identity from our job; however, when these two aspects are so closely related and interconnected due to our preferences, likings and interests, the frontier separating them becomes blurry enough for several fears to become crippling.
-    
     Not so long ago, I found myself discussing technology with some friends of mine, as if these two realities that should stay away from each other wanted to make the division line thiner than ever. After agreeing with the idea of CSS being a foundational language for web development, I decided to revise some concepts that, eventually, led to an [interesting article](https://ishadeed.com/article/css-min-max-clamp/) vertebrated around CSS Comparison Functions and some insightful ideas about present and future design.
     
     In such a flourishing industry, how will things change regarding our way of designing in the near future? It is indeed exciting to work on web projects that require a great amount of flexibility in their components, but how can we facilitate the process to make it as fluid and coherent as the illustration's second example? Can we all participate in this already-mentioned process? 
     
-    I am not so sure about the answer (not when it comes to myself, at least) - and still I opted to create a little tool making the clamp() formula more accessible for people who might find it useful. Why? Because our industry is hostile enough already, and sadly (or not?), we all want to believe in the warm residue of a community, don't we?
+    I am not so sure about the answer (not when it comes to myself, at least) - and still I opted to create a little **tool making the clamp() formula more accessible** for people who might find it useful. Why? Because our industry is hostile enough already, and sadly (or not?), we all want to believe in the warm residue of a community, don't we?
   techstack:
     - Astro
     - Svelte
@@ -321,11 +295,9 @@
 - title: EVASCode
   slug: TCA-EVASCode
   description: |
-    "Why do you pilot an EVA?"
+    "Why do you pilot an EVA?" "Why would you create **VSCode themes based on EVAs**, even?"
 
-    "Oh, wait. Wait... What happened?! Is Codetopia finished already, Judit?" Not in our hearts, that's for sure, but now that December has become an unavoidable reality, it seemed appropriate to collect some Christmas decorations (from last year*, and from the one before, and...), a nice (and imaginary) suit, and then start fantasizing with the idea of delivering The Code Awards to the unlucky ones having to deal with my nonsensical experiments day after day. As you surely know, and as it became a must in the video game sector, [The Game Awards](https://thegameawards.com/) are taking place in some hours, with a more or less satisfactory amount of decent nominees considering the nature of the event itself. However, although I've been using these events as an excuse that allowed me to keep on learning and exploring new development areas, technologies, and various tools, this time we are not discussing video games nor questionable events aiming to become the new Oscars (note to my future self: I still hate you, Geoff, but you can conquer my heart again by releasing a noice trailer of Elden Ring's DLC).
-
-    Quite a long while ago, right when the illusion of self was shattered, I ceased to be - and yet I embraced two great animes without taking into account my own timing nor the implications of my acts during such a delicate state: Evangelion came first, and then Berserk arrived to insist on the fact that, independently of how things might seem at the moment and just like Senua would say, "the hardest battles are fought in the mind, not with the sword". Similarly, after several missed occasions when I managed to convince myself about Evangelion showcasing gigantic robots and that's all about it, my best friend reminded me of the existence of his favorite anime. For once, I followed his advice without finding myself any excuse. Which one would I create when I had no mental energy left, anyway? Robots not being to my liking? Despair, the lack of purpose, the absence of any answer when asked "Why do you pilot an EVA?"
+    Quite a long while ago, right when the illusion of self was shattered, I ceased to be - yet I embraced two great animes without taking into account my own timing nor the implications of my acts during such a delicate state: Evangelion came first, and then Berserk arrived to insist on the fact that, independently of how things might seem at the moment and just like Senua would say, "the hardest battles are fought in the mind, not with the sword". Similarly, after several missed occasions when I managed to convince myself about Evangelion showcasing gigantic robots and that's all about it, my best friend reminded me of the existence of his favorite anime. For once, I followed his advice without finding myself any excuse. Which one would I create when I had no mental energy left, anyway? Robots not being to my liking? Despair, the lack of purpose, the absence of any answer when asked "Why do you pilot an EVA?"
 
     Surprisingly (or not so), he was terribly right: there were indeed mechas, but the entirety of Evangelion had nothing to do with robots slapping their faces without any context, purpose, or reasoning behind their actions and existence. Furthermore, one of the reasons why Evangelion is so profound is that it functions on no fewer than four distinct allegorical levels: it can be enjoyed at face value as an expertly realized sci-fi action adventure, but it is also a dystopian satire of the genre. And a coming-of-age parable. And a treatise on confronting loneliness and uncertainty in the adult world. And - alright, alright. We all know how vast Evangelion's symbolism is, and it would be quite pretentious if I treated my README.md file as some sort of academic paper discussing the presence (or absence) of Lacan, Freud, Hegel, and so many other thinkers in Evangelion's main themes and imagery. Imagine that a bond could be created after such a proof of intimacy. Imagine the dimensions of the following discontents.
 
@@ -349,23 +321,11 @@
 - title: PraiseTheShift
   slug: Codetopia-PraiseTheShift
   description: |
-    Recently, I finished working on two applications I would have never expected to exist: [ChromatOS](https://github.com/JuditKaramazov/Codetopia-ChromatOS) and [noctOS](https://github.com/JuditKaramazov/Codetopia-noctOS), quite a peculiar part of a general project called Codetopia, inspired by Africa’s first annual destination Indie Games & Immersive Arts festival and conference: [Playtopia](https://playtopiafestival.co.za/about/). In all honesty, the finding that these humble events are consistently taking place around the world doesn't contradict the idea of wanting to mention and endorse them from time to time, no matter if the scope is limited when the mentions only exist through little projects helping me learn the basics I couldn't explore during my formation. "But does the infamous Summer... 'Code' Fest deserve a place here too, then, Judit?" Ah, yes... well, as you've probably noticed by now, I am not the most creative person ever - but I am still trying! It has to count for something, right?
-
-    Speaking of which: none of you would possibly imagine the many times that I actively tried to enjoy Dark Souls before actually achieving such goal. That's correct: it's not only that I mention games all the time, but I analyze, listen, and learn about them more than I'd want to admit. They're always on my mind, as they shapped an irreplacable aspect of my reality and way of decoding it; they play a huge role while confronting my daily mundanities, as they're my favourite soundtrack and best mental companions. They taught me a bunch of things about success, solitude, history, companionship, music, nodding a lot while being a terrible cop, loss, courage, or how to cope with (and, eventually, defeat) depression. "This story again, eh?" Now, let's be realistic: how can a game famous for its depressing setting and brutal difficulty help people with mental illness? That's indeed a great question.
+    None of you would possibly imagine the many times that I actively tried to enjoy Dark Souls before actually achieving such goal. That's correct: it's not only that I mention games all the time, but I analyze, listen, and learn about them more than I'd want to admit. They're always on my mind, as they shapped an irreplacable aspect of my reality and way of decoding it; they play a huge role while confronting my daily mundanities, as they're my favourite soundtrack and best mental companions. They taught me a bunch of things about success, solitude, history, companionship, music, nodding a lot while being a terrible cop, loss, courage, or how to cope with (and, eventually, defeat) depression. "This story again, eh?" Now, let's be realistic: how can a game famous for its depressing setting and brutal difficulty help people with mental illness? That's indeed a great question.
 
     Independently of the answer(s) (in this case, they are as many as they are varied), what's necessary to highlight here is that the real struggle of the gameplay itself acknowledges the struggles many people are experiencing in life while also encouraging perseverance. I would not dare saying Dark Souls is a celebration of life since the setting and themes make it feel it is not; Lordran, as well as its many variations and twists throughout the franchise, is a place of callous indifference as far as its inhabitants are concerned. However, what keeps people engaged with it and the overall Soulsborne atmosphere is that the threat of meaninglessness comes hand-in-hand with the opportunity for transcendence.
-
-    Remarkably, the game succeeds because it represents a very intimate learning process where every death is a lesson. Dark Souls understands what it is to be the Chosen Undead, a less-than-no-one surviving and thriving in a world indifferent to your presence. The game, the mechanics, and the lore itself give meaning to the idea of having to make a decision each time you feel you are in a bleak world that's ending. "You get up and you have a choice. Do I try today or do I just duct tape tin foil over my windows and stay in bed all day? Waking up in the morning can be like waking up next to a bonfire after you've died in the game. You have to decide whether you go on or not."
-
-    In essence, Dark Souls can indeed be seen as a celebration of life through its emphasis on:
-
-    1. Resilience and perseverance. Just like in life, the setbacks are inevitable, but the ability to "keep on keeping on" is crucial - and controlling a fantasy character physically going through what you feel like you're going through mentally can be a great comfort.
-    2. Learning and growth ultimately leading to a deep sense of accomplishment. Overcoming adversity in the game requires adapting strategies, honing skills, and gaining knowledge, but this is the key that allows it to emphasize the importance of learning from mistakes. The feeling of conquering seemingly insurmountable odds reinforces the idea that life's greatest achievements often come from tackling difficult tasks and emerging victorious, no matter if the task itself is something as "apparently simple" as getting out of bed.
-    3. Community and co-operation. As the game's challenging nature serves as a metaphor for life's struggles, and although Dark Souls can be a solitary experience, the game also features elements of community and (jolly) co-operation: players can leave (sometimes) helpful messages for others, summon help in difficult areas, witness other people's spirits resting nearby a bonfire and keeping them accompanied, or engage in player-vs-player combat in order to test their progress.
-
-    As for this last part, how wouldn't highlighting the importance of support networks and collaboration be a celebration of life in itself, I wonder? And now that we just mentioned this crucial factor: who other than our dear Solaire of Astora embodies this theme in such a graceful way?
     
-    There's no doubt: without the stigma of failure, both players and individuals-still-liberated-from-Dark-Souls'-influence are free to adapt and test new methods rather than remain trapped in the same mindset - which is clearly not my case now that I'm bringing you [PraiseTheShift](https://github.com/JuditKaramazov/Codetopia-PraiseTheShift), a humble tool allowing you to switch between dark and light mode under Solaire's blessing and grossly incandescent approval.
+    There's no doubt: without the stigma of failure, both players and individuals-still-liberated-from-Dark-Souls'-influence are free to adapt and test new methods rather than remain trapped in the same mindset - which is clearly not my case now that I'm bringing you [PraiseTheShift](https://github.com/JuditKaramazov/Codetopia-PraiseTheShift), a **humble tool allowing you to switch between dark and light mode** under Solaire's blessing and grossly incandescent approval.
   techstack:
     - Swift
     - Xcode
@@ -384,19 +344,9 @@
 - title: noctOS
   slug: Codetopia-noctOS
   description: |
-    Do you remember Grand Theft Auto: San Andreas and its infamous "here we go again" meme? Well, I must admit it's starting to feel somehow similar to that emblematic moment, but now that I (hopefully) have your attention, and just like it recently happened with my little [ChromatOS](https://github.com/JuditKaramazov/Codetopia-ChromatOS), today we're introducing noctOS. As it previously happened with its big brother, today's project works as part of this fall's Codetopia, inspired by Africa’s first annual destination Indie Games & Immersive Arts festival and conference [Playtopia](https://playtopiafestival.co.za/about/). "Why so many 'Codetopias', and 'Summer Code Fests', and some other bunch of strange labels, Judit?" First of all, it truly helps me organize my ideas and keep track of my progress; and it's an indirect way of supporting events related to spheres that I truly enjoy, too. Finally, this is nothing more than an excuse to let you know that all these projects prove that I am still learning and practicing the basics I couldn't explore during my formation - as well as getting to know better different technologies, languages, frameworks and tools allowing me to solve my every day's mundanities.
+    Although we all have to admit that, at a meta level, every single business - Apple included - demonstrated an absurd degree of coherence between their multiple departments (perfectly aligned, like a living organism), it's still lame to exist within some boundaries when, paradoxically, choice and control have been the preferred labels of most of these companies finding customization not so representative of concepts such as "value" and "integrity". What do we truly value as individuals, in the end? Quite a difficult question, this one. In my case, and after reflecting on the ideas that I explored in my last (and colorful) project of the kind, I would say that customization and (at least the fiction of) freedom of choice are indeed essential, and I do appreciate having a minimum control over how things work - and when.
     
-    Not long ago, we discussed how much Apple restricts the customization of system elements like folder colors for consistency, coherency, and security. This strong, perfectly-solid brand identity has been at the core of Apple’s success, and with it, the emblematic half-eaten-fruit managed to win new enthusiasts while solidifying the relationship with existing ones. Innovation, quality customer service, captivating marketing campaigns that resonate with its audience... Marketing has changed because the world has changed, and while many people in this industry have become overwhelmed and paralyzed by the blizzard of technology that's literally upon us, entrepreneurs and engineers have been able to forge new businesses and disrupt, or create, markets. "Es el mercado, amigo."
-    
-    Although we all have to admit that, at a meta level, each of these businesses - Apple included - demonstrated an absurd degree of coherence between their multiple departments (perfectly aligned, like a living organism), it's still lame to exist within some boundaries when, paradoxically, choice and control have been the preferred labels of most of these companies finding customization not so representative of concepts such as "value" and "integrity". What do we truly value as individuals, in the end? Quite a difficult question, this one. In my case, and after reflecting on the ideas that I explored in my last (and colorful) project of the kind, I would say that customization and (at least the fiction of) freedom of choice are indeed essential, and I do appreciate having a minimum control over how things work - and when. Why would that be so crucial, especially in the digital era? Here's a short explanation of it:
-
-    1. In a world of predefined defaults, the power of choice and freedom is unparalleled - and there's no way we refuse to mold our digital spaces in order to mirror the complexities of our evolving identities.
-    2. Much like colors in the physical realm, the colors of our digital environment are personal expressions unique to us. Imagine launching your creative apps under an inspiring theme or your productivity tools under a focused ambiance. It's not just about organizing; it's about creating an emotional connection with your digital space.
-    3. In an era where the expression of identity remains both blurred and resoundingly powerful, and now that algorithms often curate our experiences, customization becomes a tool for reclaiming control and asserting individuality.
-    4. No matter how much the distinction between analog and digital identities is diminishing, the concept of "self" is paramount, and our devices should adapt to our preferences, not the other way around (not even your Apple device is excluded from this list, dear stranger).
-    5. As stated in ChromatOS, MacBooks are cool - but they could be cool, colorful, and more customizable.
-
-    Considering this, and due to this never-ending rapture pushing me to allow other individuals (including myself, this time) to make their devices into digital sanctuaries, I decided to create a Swift application empowering users to personalize their macOS experience by easily setting a light or dark mode theme for their chosen applications.
+    Thanks to this never-ending rapture pushing me to allow other individuals (including myself, this time) to make their devices into digital sanctuaries, I decided to create a **Swift application** empowering users to **personalize their macOS experience by easily setting a light or dark mode theme for their chosen applications**.
 
     The ability to switch themes and colors can still become a reflection of the dynamic nature of the self, can't it?
   techstack:
@@ -417,19 +367,17 @@
 - title: ChromatOS
   slug: Codetopia-ChromatOS
   description: |
-    Although this tendenceny of including my repositories into imaginary gaming/dev events has become one of this GitHub account's main habits, this time (and due to some variations regarding my purposes and goals), ChromatOS works as part of this fall's Codetopia, inspired by Africa's first annual destination Indie Games & Immersive Arts festival and conference [Playtopia](https://playtopiafestival.co.za/about/). Initially aiming at practicing the basics I couldn't explore during my formation, I must admit that I am still learning (of course!), but also exploring the many technologies, languages, frameworks and tools fitting my needs and (generally deceiving) ideas better.
-    
-    In this case, and since my life changed quite a bit these last months, I recently discussed with my roommate how much Apple restricts customization of system elements like folder colors for consistency, coherency and security. After having a look at the devices that we have at home, it's undeniable that customizing icons and folders in macOS may be more accessible compared to iPadOS as macOS allows more flexibility for system customization and integration with custom extensions or code. iPadOS, on the other hand, is more locked down and restricts extensive customization, especially when it comes to system-level changes.
+    I recently discussed with my roommate how much Apple restricts customization of system elements like folder colors for consistency, coherency and security. After having a look at the devices that we have at home, it's undeniable that customizing icons and folders in macOS may be more accessible compared to iPadOS as macOS allows more flexibility for system customization and integration with custom extensions or code. iPadOS, on the other hand, is more locked down and restricts extensive customization, especially when it comes to system-level changes.
 
-    The conclusion, of course, was a mutual "that's lame" moment, but even though these restrictions are a (sad) reality we can't possibly overcome, talking about how great it would be to allow users for this extra customization is an idea that I couldn't get out of my mind. Why couldn't I? Because as it happens to the best of us, my brain strictly follows the patterns and logic processes that allow me to keep some order up there, just like it usually happens when organizing our notes with colors. Colors? Yes, colors, and here's a little explanation of their importance and benefits:
+    The conclusion, of course, was a mutual "that's lame" moment, but even though these restrictions are a (sad) reality we can't possibly overcome, talking about how great it would be to **allow users for this extra customization** is an idea that I couldn't get out of my mind. Why couldn't I? Because as it happens to the best of us, my brain strictly follows the patterns and logic processes that allow me to keep some order up there, just like it usually happens when organizing our notes with **colors**. Colors? Yes, colors, and here's a little explanation of their importance and benefits:
     
     1. Colors serve as visual cues that help users quickly identify and categorize items. When applied to folders, they make it easier to distinguish between different types of content or projects at a glance.
     2. Colors can trigger memory associations. When users assign specific colors to folders, they can establish a color-coding system that aids in remembering the contents or significance of each folder. For example, red folders might represent urgent or high-priority tasks, while blue folders could signify personal (or just Apple-related) projects.
     3. A well-organized visual system reduces cognitive load. Users don't need to remember folder names or dig through numerous directories. Instead, they can rely on the visual cues provided by colors.
     4. Beyond the practical benefits, color customization adds an aesthetic dimension to literally everything - and the macOS experience is no exception.
-    5. MacBooks are cool - but they could be cool and colorful.
+    5. MacBooks are cool - but they could be cool **and** colorful.
 
-    Considering this, and due to this sudden urge of allowing other individuals (my roommate, more specifically) to make their desktop and Finder environment more visually pleasing, I decided to create a Swift Apple Finder extension empowering users to personalize their macOS experience by easily changing folder colors.
+    Considering this, and due to this sudden urge of allowing other individuals to **make their desktop and Finder environment more visually pleasing**, I decided to create a **Swift Apple Finder extension** empowering users to **personalize their macOS experience by easily changing folder colors**.
   techstack:
     - Swift
     - Xcode
@@ -447,17 +395,13 @@
 - title: PlantYourLife - Summer Code Fest
   slug: SummerCodeFest-PlantYourLife
   description: |
-    This project was part of the Summer Code Fest (inspired by the "Summer Game Fest" - again!) and aimed to practice the basics of TypeScript, React Native, and Expo CLI.
-
-    In this case, and since one of the main subjects affecting my life while coding gravitated around the idea of moving out, I decided to create an application focused on the one and only reality we should all embrace and rely on as functional adults: plants.
+    Since one of the main subjects affecting my life while coding gravitated around the idea of moving out, I decided to create an application focused on the one and only reality we should all embrace and rely on as functional adults: **plants**.
 
     1. Just like roommates, they are the perfect allies whenever our scenarios change so drastically - and just like them, they require time, nutrients and the proper environment.
     2. They can be as small and portable as our dearly beloved mobile devices.
     3. Above all, they force us to stick to a well-organized lifestyle, and nothing workings better for it than reminders and notifications.
 
     Considering this, and since I wanted to keep learning and practicing TypeScript independently of my external circumstances, creating a customized React Native application inspired by my new condition, my roommate's passion for plants, and our overall lack of time management felt like the only possible solution. 
-    
-    Why React Native, though? In all honesty, and due to the convoluted nature of our daily lives, it seemed appropriate to make Plan(t) Your Life fit in our pockets; this way, we won't forget to pay attention to what truly matters to us.
   techstack:
     - HTML
     - CSS
@@ -477,7 +421,7 @@
 - title: M.Pomodoro Rajoy - Summer Code Fest
   slug: SummerCodeFest-M.Pomodoro-Rajoy
   description: |
-    This project was part of the Summer Code Fest (inspired by the "Summer Game Fest", probably one of the most terrible ideas we ever had as a society), and aimed to practice the basics I couldn't explore in IT Academy's bootcamp. In this case, and after giving Next.js a try by creating a small [Spotify Replica](https://github.com/JuditKaramazov/SummerCodeFest-Spotify), I focused on some of the subjects mattering the most both to me and most of the Spanish citizens: 
+    In this case, and after giving Next.js a try by creating a small [Spotify Replica](https://github.com/JuditKaramazov/SummerCodeFest-Spotify), I focused on some of the subjects mattering the most both to me and most of the Spanish citizens: 
 
     1. The difficulty to stay focused during the summer.
     2. The unsettling feeling our 2023 elections were eliciting from us.
@@ -506,14 +450,12 @@
 - title: Spotify Replica - Summer Code Fest
   slug: SummerCodeFest-Spotify
   description: |
-    This project was part of the Summer Code Fest (inspired by the "Summer Game Fest" - what an unsettling idea!) and aimed to practice the basics of Next.js, authentication, and Tailwind CSS. 
-    
     The project provided a Spotify interface and allowed users to explore and interact with various Spotify features:
 
-    1. Login page and authentication using Spotify credentials.
-    2. User's libraries, including playlists, liked songs, and more.
-    3. Featured playlists and artists recommended by Spotify.
-    4. Search bar to search for songs, artists, albums, and playlists.
+    1. **Login page** and **authentication** using Spotify credentials.
+    2. **User's libraries**, including playlists, liked songs, and more.
+    3. **Featured playlists and artists** recommended by Spotify.
+    4. **Search bar** to search for songs, artists, albums, and playlists.
 
     Please note that while most of Spotify's features are available, some functionalities are still under development and will be added in the future! However, I still found it a nice practice to get to understand better some tools I wasn't familiarized with.
   techstack:
@@ -535,11 +477,7 @@
 - title: expaTICs
   slug: expaTICs
   description: |
-    Not so long ago, I went on a journey that took me to Upper Austria, which is considerably far away from my country, both geographically and mentally speaking. The only thing that I metaphorically took with me was this vague, distant story about my grandmother moving to Germany after our Civil War had finished, with no German knowledge nor any sort of proper formation. The only thing that she kept with her was the urge of finding a stable job that would eventually allow her to come back to our country and take back her life. Even though our situations were drastically different, I could still feel this deep connection with all the German-speaking countries, their reality, and the idea that I created about it in my mind.
-
-    expaTICs came to mind some weeks ago, back in my country, and still reminding a conversation that I had with my dear Paulita in Austria: the expat experience can be a solitary, painful path, independently of how connected we seem to be these days.
-
-    Although this wasn't my case, the critical challenge of migration and displacement is as undeniable as the need to coordinate solutions at local, regional, and global levels. Unfortunately, that's far beyond my capabilities; however, I thought that a little application as my final project would be a nice tribute to give to everyone that deconstructed and had to build again their realities - not to mention all the people that I met during my personal journey.
+    The critical challenge of migration and displacement is as undeniable as the need to coordinate solutions at local, regional, and global levels. Unfortunately, that's far beyond my capabilities; however, I thought that a little application as my final project would be a nice tribute to give to everyone that deconstructed and had to build again their realities - not to mention all the people that I met during my personal journey.
     
     If you are still wondering why expaTICs exists, allow me to highlight another reason: I probably would have never started programming if it wasn't thanks to the scholarship that I got during my stay in Austria. That's the very essence of expaTICs:
     
@@ -550,11 +488,11 @@
 
     The combination of these two ideas resulted in the following utilities and features:
     
-    1. The usage of OpenAI API.
-    2. User management, implemented thanks to Firebase authentication system combined with localStorage.
-    3. Private routes granting users free access to the site's landing page, as well as the login, sign up and restore password sections of it, but preventing them from accessing the Dashboard (our application's very core) without previous registration.
-    4. The possibility of editing their own data individually (e.g. a color tracker tool that's only accessible to its owner) or openly (e.g. a pseudo-wiki allowing users to collectively craft and deploy notes regarding best places, events, activities, etc.).
-    5. The integration of different sections focused on the users and their psychological well-being.
+    1. The usage of **OpenAI API**.
+    2. **User management**, implemented thanks to **Firebase authentication system** combined with **localStorage**.
+    3. **Private routes** granting users free access to the site's landing page, as well as the login, sign up and restore password sections of it, but preventing them from accessing the Dashboard (our application's very core) without previous registration.
+    4. The possibility of **editing their own data individually** (e.g. a color tracker tool that's only accessible to its owner) or openly (e.g. a pseudo-wiki allowing users to collectively craft and deploy notes regarding best places, events, activities, etc.).
+    5. The integration of **different sections** focused on the users and their psychological well-being.
   techstack:
     - HTML
     - React
@@ -576,19 +514,17 @@
 - title: Star Wars Application
   slug: Sprint8
   description: |
-    In all sincerity, I never connected with the idea of communities congregating to share their love and criticism of a specific multimedia work, no matter how passionate I am about certain artistic artifacts. This passion always existed deep within, as a silent one, and just as the "daughter of my generation" that I am, the scope of this passion was remarkably reduced to (and highly influenced by) the decade of the 90s and its most relevant media, films, games and pop culture.
-    
     Star Wars was never a solid reference according to my relationship to the collective imaginary, though; however, its influence is as undeniable as it has been well-established and consolidated through the years, and that's probably why IT Academy asked us to work on a project related to this specific universe.
 
     The final result should fetch each starship's data (including films and pilots) from the SWAPI Star Wars API (https://swapi.dev/) while combining it with the visual assets provided by https://starwars-visualguide.com/. After accessing an entire list located in the Starships section, the user can check all the information fetched with Axios, which is the HTTP client-based package I decided to use in order to communicate and send requests to the REST endpoints.
     
     Although the simplicity of the application is what seems to be an undeniable reality, there was, of course, a little extra: it was necessary to incorporate a registration system and protected routes just so only registered users could access the exclusive content. In order to achieve it, I had to work on the following utilities:
     
-    1. The already mentioned Star Wars APIs.
-    2. User management, implemented thanks to localStorage usage.
-    3. A Sign Up, Login and Sign Out system keeping track of new users, unregistered, and already registered ones, which allows the user to sign up, log in, finish their session and still keep their information stored. As you can see in the previous image, the site greets the registered users by displaying their names on the screen.
-    4. Private routes granting users free access to Home (a so-called "welcome page" with a slider integrated) and the About section, but showing an alert and preventing them from accessing the Starships one without previous registration.
-    5. An infinite scroll system followed by different "Loading..." or "All starships successfully loaded!" messages, making it more accessible for the user to navigate the list.
+    1. The already mentioned **Star Wars APIs**.
+    2. **User management**, implemented thanks to **localStorage** usage.
+    3. A **Sign Up**, **Login** and **Sign Out system** keeping track of new users, unregistered, and already registered ones, which allows the user to sign up, log in, finish their session and still keep their information stored. As you can see in the previous image, the site greets the registered users by displaying their names on the screen.
+    4. **Private routes** granting users free access to Home (a so-called "welcome page" with a slider integrated) and the About section, but showing an alert and preventing them from accessing the Starships one without previous registration.
+    5. An **infinite scroll** system followed by different "Loading..." or "All starships successfully loaded!" messages, making it more accessible for the user to navigate the list.
   techstack:
     - HTML
     - JavaScript
@@ -612,12 +548,12 @@
 
     Independently of the apparent simplicity of the project, it allows for interacting more directly with the client as we are taking into account their choices and preferences, and also providing them with tools for a smoother experience, such as:
 
-    1. a search bar.
-    2. buttons sorting their saved lists by date and name.
-    3. an individualized deleting system for each list created.
-    4. the possibility of clearing all their saved budgets at once.
-    5. a pagination system focused on making their saved data more accessible.
-    6. the possibility of keeping their budget options saved in the URL.
+    1. A **search bar**.
+    2. Buttons **sorting** their saved lists by date and name.
+    3. An **individualized deleting system** for each list created.
+    4. The possibility of **clearing all their saved budgets at once**.
+    5. A **pagination system** focused on making their saved data more accessible.
+    6. The possibility of **keeping their budget options saved** in the URL.
     
     By combining all of these elements, we delivered if not a great tool (note that this was the creator's second React project, so of course it was not good at all!), at least an intuitive one.
   techstack:
@@ -696,8 +632,8 @@
 
     These were the prototypes we had to work with:
     
-    1. the main site, providing users with functionalities such as adding products to the cart or showing a modal that includes the products they bought, their individual prices and the total one.
-    2. a checkout page with a proper validation system accepting certain conditions, depending on the field; if these conditions are not met, it doesn't allow the user to submit their form until all tests have been passed.
+    1. The **main site**, providing users with functionalities such as adding products to the cart or showing a modal that includes the products they bought, their individual prices and the total one.
+    2. A **checkout page** with a proper validation system accepting certain conditions, depending on the field; if these conditions are not met, it doesn't allow the user to submit their form until all tests have been passed.
     
     Even though IT Academy came up with an already-made design, I decided to add some minimal changes while still respecting the requirements and expected features.
   techstack:
@@ -726,11 +662,11 @@
     
     The entire landing page incorporated:
     
-    1. the main content with its corresponding navbar.
-    2. a features section explaining the most remarkable characteristics of this (fictional) tool.
-    3. a download section including Chrome, Firefox, and Opera versions of the extension.
-    4. a FAQS section that allowed us to incorporate an accordion component.
-    5. a footer with a Contact us area that would throw an error whenever the form receives an empty email address or an invalid one.
+    1. The **main content** with its corresponding **navbar**.
+    2. A **features section** explaining the most remarkable characteristics of this (fictional) tool.
+    3. A **download section** including Chrome, Firefox, and Opera versions of the extension.
+    4. A **FAQS section** that allowed us to incorporate an **accordion component**.
+    5. A **footer** with a **Contact us area** that would throw an error whenever the form receives an empty email address or an invalid one.
   
   techstack:
     - HTML
