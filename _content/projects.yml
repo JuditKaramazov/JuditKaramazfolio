@@ -1,3 +1,41 @@
+- title: Maria Brió, professional portfolio
+  slug: MariaBrioPortfolio
+  description: |
+    Certificates. Trainings. Degrees. We have a huge vested interest in them, partly because they are supposed to take us into this future we can't even grasp. I do not deny the inherent truth of it, though; a solid education is a pretty easy thing to carry around, yet our approach to it requires a deep reform. Similarly, the lack of educational and professional opportunities should be discussed and addressed, but that's a story for another night. Today, we'll focus on the importance of portfolios, which may significantly define our success while trying to find an opportunity.
+
+    On this occasion, similarly to many other examples that have become extremely popular these days, I decided to organize [Maria's portfolio](https://mariabrio.vercel.app) following the structure of a **landing page**. This approach resulted in the following structure:
+
+    1. **About**, a brief introduction displaying a profile picture, some crucial information, and some professional platforms and documents: [LinkedIn](https://www.linkedin.com/in/mariabrioperez/), [Orcid](https://orcid.org/0000-0002-6328-9556), [her PhD thesis](https://research.utwente.nl/en/publications/a-journey-towards-responsive-and-circular-polymer-brushes-design-), or [her curriculum](https://github.com/JuditKaramazov/MariaBrioPortfolio/blob/main/assets/MariaBrioPerez-CV.pdf).
+    2. **Skills**, organized under the shape of an accordion in order to make information as accessible as readable.
+    3. **Experience**, where you'll find her education and work experience, with the proper information displayed as a visual timeline.
+    4. **Articles**, with a collection of her most recent papers, integrated as visually and interactively as possible.
+    5. **Contact**, displaying her phone number, address, and a contact form.
+
+    As for some of the site's main features:
+    
+    1. **Dark/light mode**, with a theme switcher enhancing the visual appeal for readers.
+    2. **EmailJS**, a tool that helps to send emails using client-side technologies only.
+    3. **Single page**, enabling users to get a clear idea of her profile thanks to a clean, minimalist, and compact design.
+    4. **Swiper**, allowing to display Maria's most recent works instead of simply listing them.
+    
+    Built upon HTML, Sass, and JavaScript, I wanted to reproduce the cleanest, simplest, and most minimal platform for recruiters to find the outstanding professional (and human being) that Maria is. Keep it simple. Keep it effective.
+  techstack:
+    - CSS
+    - EmailJS
+    - HTML
+    - JavaScript
+    - Sass
+    - Swiper
+  
+  links:
+    - title: '@MariaBrioPortfolio'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/MariaBrioPortfolio'
+
+    - title: Maria Brió Pérez | Professional portfolio
+      icon: Compass
+      url: 'https://mariabrio.vercel.app'
+
 - title: mergeOS
   slug: mergeOS
   description: |
