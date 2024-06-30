@@ -3,7 +3,7 @@
   "img": "karamaBrand.png",
   "url": "https://karamazfolio.vercel.app/",
   "availability": {
-    "status": false,
+    "status": true,
     "available": "👔 Available for new projects. <a href=\"mailto:j.lazaromoyano7@gmail.com\">Let’s talk</a>!",
     "unavailable": "Not available for new projects."
   },
