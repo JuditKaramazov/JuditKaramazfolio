@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://karamazfolio.vercel.app/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karaLogo.png" width="550" height="550" alt="Main site logo" /></a>
+  <a href="https://karamazfolio.xyz/"><img src="https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/main/public/karAvatar.png" width="300" height="300" alt="Main avatar." /></a>
 </p>
 <h1 align="center">
   Karamazfolio, v.1.0
@@ -165,6 +165,10 @@ It is also possible to schedule meetings with me via `Calendly`, but as you'll s
 
 ![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-03.png)
 
+
+> [!NOTE]
+> The previous image shows how the website looked at the very beginning. Although the structure is the same, many things have changed over time! Ah, nostalgia... Please go check it out now to admire the evolution yourself!
+
 # Scripts
 
 When it comes to `scripts`, the most remarkable element is how easy it became to add...
@@ -228,5 +232,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ---
 
 <h1 align="center">
-  <a href="https://www.karamazfolio.xyz"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original logo asset">
+  <a href="https://karamazfolio.xyz/"><img src="https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="100" height="100" alt="Original Karama logo asset.">
 </h1>
+<h2 align="center">
+  <a href="https://www.buymeacoffee.com/JuditKaramazov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 207px !important;" ></a>
+</h2>
