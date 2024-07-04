@@ -135,7 +135,7 @@ As for the repositories themselves, all of them are fetched on build time direct
 
 3. **Displaying Repositories**: Finally, the sorted repositories are displayed on the site, providing visitors with a quick overview of the projects you've worked on.
 
-![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-02.png)
+![Alt text](https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/main/public/Screenshot-02.png)
 
 The repositories are sorted based on their last push date, with the most recently updated repositories appearing at the top, which allows to showcase our most recent work effectively. Some interesting open-source projects will definitely be added in the future, so don't forget to check from time to time if there are any news!
 
@@ -209,7 +209,7 @@ We're all learning here, after all - and I'm genuinely excited to share the jour
 
 Now that the technical part has been defined, I wouldn't want to close this (apparently) small (and yet crucial) chapter of my life without highlighting the beautiful art `Auregan Nedelec` provided me with.
 
-![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-04.png)
+![Alt text](https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/main/public/Screenshot-04.png)
 
 I never considered myself a "visual" person, nor someone capable of even describing the shapes and colors crossing my mind. "A pure Philologist", they said, and I still do believe they were right, in a way: the person you'll get to know in this portfolio `is` the literature maniac many people have in mind, too. However, something as simple as a little "doodle" ended up outlining and vertebrating the totality of this project - and I can't thank you enough for that because it proves that no matter our many labels, something as simple as some shiny Trico eyes can enlighten and create entire universes.
 As for the ones still reading my words: thank you, too, you little Tricos inhabiting this virtual world. 
