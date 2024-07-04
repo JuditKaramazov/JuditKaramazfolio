@@ -90,7 +90,7 @@ Initially, the main goal that I pursued was keeping this site as clean, scalable
 
 Although it may seem there's nothing much to clarify other than noting that I `finally` decided to create a portfolio, I find it relevant to mention that this project is a React-based single page app in TypeScript, using only statically generated pages.
 
-![Alt text](https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/Screenshot-01.png)
+![Alt text](https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/main/public/Screenshot-01.png)
 
 Considering this, it's also important to highlight that Next.js creates pages from each item automatically thanks to the [`src/pages/[slug].tsx`](src/pages/[slug].tsx) template you'll find if you dive into the repository's very essence and guts. With this said, let's now discuss a feature closely related to this idea:
 
