@@ -23,6 +23,7 @@ const Meta = ({
       <meta property="og:image" content={`${meta.url}/${image}`} />
       <meta property="og:url" content={url} />
       <meta name="logo:card" content="summary_large_image" />
+      <meta name="google-site-verification" content="ASzLihHWeQfpUNSiiiyxc7OUbI-CnKSZGqMecNMCuhI" />
     </ Head>
   )
 }
