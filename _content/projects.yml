@@ -1,3 +1,37 @@
+- title: No Why Games - Devlog
+  slug: NoWhyLogs
+  description: |
+    As some of you probably know, I already own a [private blog](https://karamablog.xyz) where I can share some of my thoughts, analysis, and nonsense; however, I still didn't work on a bonfire where I could sit, take the time to digest video game development's essence, and represent the trip itself in the shape of a "diary" or **"dev blog"**. That's why [NoWhyLogs](https://nowhylogs.vercel.app), a **devlog containing relevant information on my progress as an indie developer**, exists.
+
+    Some of the site's main features include:
+    
+    1. **Enhanced accessibility**, which means that user can navigate the website using their **keyboard** and **VoiceOver**.
+    2. **Dynamic OG image generation**, possible thanks to [Satori's library](https://github.com/vercel/satori) plus some personal tweaks.
+    3. **Fuzzy search**, including a global search empowered by [Fuse.js](https://github.com/krisk/Fuse).
+    4. **Light & dark themes**.
+    5. **SEO-friendly architecture**.
+    6. **Sitemap & RSS feed**.
+    
+    Keep it simple, clean, and efficient.
+  techstack:
+    - Astro
+    - React
+    - TypeScript
+    - TailwindCSS
+    - Figma
+    - ESLint
+    - Phosphor Icons
+    - Prettier
+  
+  links:
+    - title: '@NoWhyLogs'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/NoWhyLogs'
+
+    - title: No Why Games | Devlog
+      icon: Compass
+      url: 'https://nowhylogs.vercel.app'
+
 - title: Maria Brió, professional portfolio
   slug: MariaBrioPortfolio
   description: |
