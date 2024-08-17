@@ -426,7 +426,7 @@
       icon: Compass
       url: 'https://docs.swift.org/swift-book/documentation/the-swift-programming-language'
 
-- title: PlantYourLife - Summer Code Fest
+- title: Plant Your Life
   slug: SummerCodeFest-PlantYourLife
   description: |
     Since one of the main subjects affecting my life while coding gravitated around the idea of moving out, I decided to create an application focused on the one and only reality we should all embrace and rely on as functional adults: **plants**.
@@ -452,7 +452,7 @@
       icon: Compass
       url: 'https://reactnative.dev/docs/getting-started'
 
-- title: M.Pomodoro Rajoy - Summer Code Fest
+- title: M.Pomodoro Rajoy
   slug: SummerCodeFest-M.Pomodoro-Rajoy
   description: |
     In this case, and after giving Next.js a try by creating a small [Spotify Replica](https://github.com/JuditKaramazov/SummerCodeFest-Spotify), I focused on some of the subjects mattering the most both to me and most of the Spanish citizens: 
@@ -481,7 +481,7 @@
       icon: Compass
       url: 'https://m-pomodoro-rajoy.vercel.app'
 
-- title: Spotify Replica - Summer Code Fest
+- title: Spotify Replica
   slug: SummerCodeFest-Spotify
   description: |
     The project provided a Spotify interface and allowed users to explore and interact with various Spotify features:
