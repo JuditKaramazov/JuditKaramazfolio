@@ -1,3 +1,40 @@
+- title: JavaScripted
+  slug: JavaScripted
+  description: |
+    Although I've written chapters and chapters dedicated to programming and learning resources, I still had to find some space for the language that started it all before Python put several concepts in their rightful place: **JavaScript**. That's why [JavaScripted](https://javascript-ed.vercel.app) exists: "Once a teacher, always a teacher", indeed, and this **modern collection of JavaScript notes** on several topics perfectly communicates this teacher mindset I can't get rid of.
+
+    Given the fact that simplicity, accessibility, and performance optimization are crucial for me, here are some of the site's main features:
+    
+    1. **Enhanced accessibility**, which allows users to navigate the site using their **keyboard** and **VoiceOver**.
+    2. **Custom theme for code snippets**, crafted from scratch for this specific project.
+    3. **Dynamic OG image generation**, thanks to [Satori's library](https://github.com/vercel/satori) and my own eccentricities.
+    4. **CodeSandbox integration**, facilitating the combination of static code snippets with interactive code previews. 
+    5. **Interconnection**, displaying **all subjects** after each lesson, as well as **related notes** depending on the topic.
+    6. **Multilayered dimension**, as [JavaScripted](https://javascript-ed.vercel.app) is **part of two educational projects** of mine: [pythoMazov](https://pythomazov.tech) and my book, [Rising Up: Insights from a Junior to future Seniors](https://github.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors).
+    7. **Privacy-oriented**, with **no cookies**, **no tracking consent banners**, **or personal data collection** thanks to [Plausible](https://plausible.io/).
+    8. **SEO-friendly architecture**.
+    
+    Transparency, ethical alternatives to big tech, and above all: education at its finest.
+  techstack:
+    - Astro
+    - React
+    - TypeScript
+    - TailwindCSS
+    - CodeSandbox
+    - Figma
+    - Prettier
+    - Satori
+    - Vercel
+  
+  links:
+    - title: '@JavaScripted'
+      icon: GitHub
+      url: 'https://github.com/JuditKaramazov/JavaScripted'
+
+    - title: JavaScripted
+      icon: Compass
+      url: 'https://javascript-ed.vercel.app'
+
 - title: No Why Games - Devlog
   slug: NoWhyLogs
   description: |
