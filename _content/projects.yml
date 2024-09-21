@@ -1,3 +1,40 @@
+- title: Estefanía Linuesa, Spanish academy
+  slug: Estefania-Sprachschule
+  description: |
+    Given this universe of lost _and_ blooming opportunities, I can't emphasize enough how proud I am when well-prepared, sensitive, and hardworking people like [Estefanía Linuesa Torrijos](https://www.linkedin.com/in/estefan%C3%ADa-linuesa-57a8811ab/?originalSubdomain=de) decide to leap into "the unknown" and open their own **Spanish academy for everyone in Stuttgart who's passionate about our language and culture.**
+    
+    Although I played a bit with minimalism and impacting imagery for [this project](https://estefania-sprachschule.vercel.app/), I still followed the structure of a **landing page**:
+
+    1. **Introduction**, displaying a **title**, a **picture illustrating some aspects of the Spanish culture**, and a **word of my choice** summarizing what "learning" means.
+    2. **Features**, a section with **Spanish stickers and brief explanations**, a **graphic**, and a **marquee** showcasing some of the **main institutions** Estefanía collaborated with. 
+    3. **FAQs**, an **accordion** diving deeper into the person _behind_ the teacher without forgetting key points about Estefanía's experience, methodology, and services.
+    4. **Contact**, introducing a **form** for those interested in the academy.
+    
+    Similarly, here are some of the major features you'll find when navigating the site:
+    
+    1. **EmailJS**, a tool that helps to send emails using client-side technologies only.
+    2. **i18n internationalization**, which made the integration of three major languages (**English, Spanish, and German**) possible.
+    3. **GSAP animations**, facilitating a silky-smooth performance while keeping the UI stylish and immersive.
+    4. **Single page**, enabling users to get a better understanding of the academy thanks to a clean, minimalist, and compact design.
+    5. **Smooth navigation with Lenis**.
+    6. **SEO-friendly architecture**.
+    
+    Built upon HTML, CSS, and JavaScript, I wanted to reproduce the simplest yet most surprising platform for students to find the **unmatched teacher that Estefanía Linuesa is**.
+  techstack:
+    - CSS
+    - EmailJS
+    - HTML
+    - JavaScript
+    - GSAP
+    - Lenis
+    - Figma
+    - Prettier
+  
+  links:
+    - title: Estefanía Linuesa | Spanisch Sprachschule
+      icon: Compass
+      url: 'https://estefania-sprachschule.vercel.app'
+
 - title: JavaScripted
   slug: JavaScripted
   description: |
@@ -74,7 +111,7 @@
   description: |
     Certificates. Trainings. Degrees. We have a huge vested interest in them, partly because they are supposed to take us into this future we can't even grasp. I do not deny the inherent truth of it, though; a solid education is a pretty easy thing to carry around, yet our approach to it requires a deep reform. Similarly, the lack of educational and professional opportunities should be discussed and addressed, but that's a story for another night. Today, we'll focus on the importance of portfolios, which may significantly define our success while trying to find an opportunity.
 
-    On this occasion, similarly to many other examples that have become extremely popular these days, I decided to organize the [portfolio and CV of Maria Brió Pérez](https://mariabrio.vercel.app) following the structure of a **landing page**. This approach resulted in the following structure:
+    On this occasion, similarly to many other examples that have become extremely popular these days, I decided to organize the [portfolio and CV of Maria Brió Pérez](https://mariabrio.vercel.app) following the structure of a **landing page**. This approach resulted in the following sections:
 
     1. **About**, a brief introduction displaying a profile picture, some crucial information, and some professional platforms and documents: [LinkedIn](https://www.linkedin.com/in/mariabrioperez/), [Orcid](https://orcid.org/0000-0002-6328-9556), [her PhD thesis](https://research.utwente.nl/en/publications/a-journey-towards-responsive-and-circular-polymer-brushes-design-), or [her curriculum](https://github.com/JuditKaramazov/MariaBrioPortfolio/blob/main/assets/MariaBrioPerez-CV.pdf).
     2. **Skills**, organized under the shape of an accordion in order to make information as accessible as readable.
