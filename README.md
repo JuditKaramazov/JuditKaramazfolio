@@ -38,7 +38,6 @@
   - ↘️ [Geek resume](#geek-resume)
   - ↘️ [Repositories](#repositories)
   - ↘️ [Theme switcher](#theme-switcher)
-  - ↘️ [Typekit integration](#typekit-integration)
   - ↘️ [vCard](#vcard)
 - 5️⃣. [Scripts](#scripts)
   - ↘️ [New projects](#new-projects)
@@ -142,17 +141,6 @@ The repositories are sorted based on their last push date, with the most recentl
 ## Theme switcher
 
 Because having a look every now and then stops us from staying in the dark, right...? In this case, and since I myself am quite sensitive whenever a powerful light attacks my eyes, incorporating a `theme switcher` capable of automatically toggle between a light and a dark mode based on the user's system preferences became a `must`.
-
-## Typekit integration
-Speaking of which, the portfolio uses a new `must` to me: Typekit, a service that provides amazingly interesting fonts for web design. What's the best part of handling its integration process by our Typekit component, you'll wonder?
-
-1. **Script Configuration**: The `Typekit` component configures and loads a JavaScript script provided by Typekit. The script is designed to fetch the fonts we might need for our site.
-
-2. **Asynchronous Loading**: The script is loaded asynchronously to prevent it from slowing down the loading of our portfolio.
-
-3. **Enhancing Typography**: Once the script is successfully loaded, Typekit's fonts become available for use in your site's typography, improving the overall design and readability.
-
-If you're interested in the technical details of how this integration is achieved, you can take a look at the component code in `src/components/Typekit/index.tsx`. However, from a user perspective, the important thing to know is that this integration enhances the visual appeal and readability of the site's text content - and that is indeed a must!
 
 ## vCard
 
