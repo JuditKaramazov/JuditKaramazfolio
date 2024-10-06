@@ -59,7 +59,7 @@ export default function ProjectImage({
           quality={85}
           priority={priority}
           placeholder="empty"
-          onLoadingComplete={() => setLoaded(true)}
+          onLoad={() => setLoaded(true)}
         />
       </ m.figure>
     </ LazyMotion>
